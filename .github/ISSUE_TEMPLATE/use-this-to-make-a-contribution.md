@@ -1,24 +1,28 @@
 ---
 name: Use this to make a contribution
-about: Edit the content and attach your file to contribute
+about: Say hi and attach your file to contribute
 title: New discovery to share
 labels: documentation, enhancement
 assignees: denisecase
 
 ---
 
-### Description
+### Sharing My MandArt Discovery
 
-Please tell use your username (or if you'd like to use "unknown"):
+Welcome! To contribute, please: 
 
-Attach your .mandart document here. 
+1. Tell us your username:
+2. Attach your .mandart document here. 
 
-Anything else we should know? 
+We group documents by user. If you don't offer a username, we'll organize it under "unknown".
 
 ### Checklist
 
-In the 3 places below, please check the boxes by adding a X between the braces - it'll look like `[X]`:
+Please check the 3 boxes below by adding a X between the braces. 
+It'll look like `[X]`:
 
-- [ ] I generated this .mandart document using the MandArt app.
-- [ ] I understand that by submitting this file, I am allowing the repository owner to use and distribute the file in accordance with the repository's license and terms of use.
-- [ ] I have read and agree to the repository's code of conduct.
+- [ ] My contribution is a valid document, created using the MandArt app.
+- [ ] By submitting this document, I'm allowing the repository owner to use and distribute the file in accordance with the repository's license and terms of use.
+- [ ] I agree to abide by the repository's code of conduct.
+
+Thank you for your submission! 
