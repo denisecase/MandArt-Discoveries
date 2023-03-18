@@ -10,6 +10,8 @@ MandArt is available from the Apple App Store. The App Store is only available t
 
 We welcome contributions from anyone interested in sharing their MandArt discoveries with the community. 
 
+![MandArt](denisecase/Opening.png)
+
 ### Before You Contribute
 
 Before contributing, please make sure to review the following guidelines and requirements:
