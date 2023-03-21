@@ -10,6 +10,9 @@ Contributed by:
 
 - See all [Lefts](Lefts/_index.md)
 
+This is not the main Mandlebrot set - it's near the very far left of the landscape. 
+Download, open in MandArt, and zoom all the way out to see where we are looking. 
+
 [Download](Lefts/Left1.mandart)
 !["Left1"](Lefts/Left1.png)
 
