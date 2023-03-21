@@ -12,6 +12,21 @@ Click here to see some interesting discoveries:
 
  - [Contributed by Bruce H Johnson](brucehjohnson/_index.md)
 
+
+## Download Discoveries to Open them in MandArt
+
+You can explore any of these discoveries on your Mac. 
+To open the document on your machine for futher exploration, follow these steps.
+
+1. In GitHub, click the "Click here to download" link above an image to jump to the associated .mandart document file in GitHub.
+2. On the GitHub page for the document, click the download icon in the upper right corner to download the .mandart document to your machine. 
+2. On your Mac, double-click the .mandart document on your machine (use Finder as needed) to open the document in MandArt.
+3. In MandArt, you can use the various inputs to zoom out (-) and see where the landscape is located, modify the colors, or explore further.
+
+When viewing the .mandart document file in GitHub, the download icon in the upper right of the document window looks like this:
+
+![GitHub download icon](../_resources/download_icon.PNG)
+
 ## Contributing
 
 We welcome contributions from anyone interested in sharing their MandArt discoveries with the community. 
