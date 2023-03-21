@@ -10,7 +10,9 @@ Contributed by:
 
 - See all [Lefts](Lefts/_index.md)
 
-This is not the main Mandlebrot set - it's near the very far left of the landscape. 
+The "Left" examples (see the one shown below), may look like the main Mandlebrot set.
+Surprisingly, they are not. This example below is actually showing the very far _left_ of the landscape. 
+
 To see more:
 
 1. Click the "download" button below to download the Left1.mandart document to your machine. 
