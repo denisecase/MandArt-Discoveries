@@ -6,6 +6,12 @@ Welcome to the MandArt Discoveries repository! This repository is a shared space
 
 MandArt is available from the Apple App Store. The App Store is only available through the App Store application on macOS (v12+) devices. The App Store is not accessible through a web browser on a Windows computer.
 
+## Discoveries
+
+Click here to see some interesting discoveries:
+
+ - [Contributed by Bruce H Johnson](brucehjohnson/_index.md)
+
 ## Contributing
 
 We welcome contributions from anyone interested in sharing their MandArt discoveries with the community. 
