@@ -11,7 +11,11 @@ Contributed by:
 - See all [Lefts](Lefts/_index.md)
 
 This is not the main Mandlebrot set - it's near the very far left of the landscape. 
-Download, open in MandArt, and zoom all the way out to see where we are looking. 
+To see more:
+
+1. Click the "download" button below to download the Left1.mandart document to your machine. 
+2. From your Mac, double-click the Left1.mandart document on your machine to open it in MandArt.
+3. In MandArt, use the "-" button to zoom out to see where we are looking. 
 
 [Download](Lefts/Left1.mandart)
 !["Left1"](Lefts/Left1.png)
