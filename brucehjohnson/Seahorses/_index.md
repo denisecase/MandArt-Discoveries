@@ -6,6 +6,6 @@ Contributed by:
 
 ## Seahorse
 
-<a href="Seahorse.mandart" download="Diamond1.mandart">Click here to download</a><br>
+<a href="Seahorse.mandart" download="Seahorse.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorse.png)
 
