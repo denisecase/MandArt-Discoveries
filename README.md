@@ -16,7 +16,7 @@ Click here to see some interesting discoveries:
 
 We welcome contributions from anyone interested in sharing their MandArt discoveries with the community. 
 
-![MandArt](denisecase/Opening.png)
+![MandArt](brucehjohnson/Bhj1.png)
 
 ### Before You Contribute
 
