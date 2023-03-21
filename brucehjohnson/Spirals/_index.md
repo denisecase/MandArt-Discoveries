@@ -6,10 +6,10 @@ Contributed by:
 
 ## Spiral
 
-[Download](Spiral.mandart)
+<a href="Spiral.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Spiral"](Spiral.png)
 
 ## Spiral1
 
-[Download](Spiral1.mandart)
+<a href="Spiral1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Spiral1"](Spiral1.png)

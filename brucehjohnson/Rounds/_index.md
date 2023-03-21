@@ -6,6 +6,6 @@ Contributed by:
 
 ## Round1
 
-[Download](Round1.mandart)
+<a href="Round1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Round1"](Round1.png)
 

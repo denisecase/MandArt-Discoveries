@@ -6,10 +6,10 @@ Contributed by:
 
 ## Top
 
-[Download](Top.mandart)
+<a href="Top.mandart" download="Diamond1.mandart">Click here to download</a><br>
 
 
 ## Top1
 
-[Download](Top1.mandart)
+<a href="Top1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Top1"](Top1.png)

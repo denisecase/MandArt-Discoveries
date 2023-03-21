@@ -6,26 +6,26 @@ Contributed by:
 
 ## Rectangle 1
 
-[Download](Rectangle1.mandart)
+<a href="Rectangle1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangle1.png)
 
 ## Rectangle 2
 
-[Download](Rectangle2.mandart)
+<a href="Rectangle2.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle2"](Rectangle2.png)
 
 ## Rectangle 3
 
-[Download](Rectangle3.mandart)
+<a href="Rectangle3.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle3"](Rectangle3.png)
 
 ## Rectangle 4
 
-[Download](Rectangle4.mandart)
+<a href="Rectangle4.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle4"](Rectangle4.png)
 
 ## Rectangle 5
 
-[Download](Rectangle5.mandart)
+<a href="Rectangle5.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle5"](Rectangle5.png)
 

@@ -6,6 +6,15 @@ Contributed by:
 
 -----
 
+## [Diamonds](Diamonds/_index.md)
+
+- See all [Diamonds](Diamonds/_index.md)
+
+<a href="Diamonds/Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
+!["Diamond1"](Diamonds/Diamond1.png)
+
+-----
+
 ## [Lefts](Lefts/_index.md)
 
 - See all [Lefts](Lefts/_index.md)
@@ -19,7 +28,7 @@ To see more:
 2. From your Mac, double-click the Left1.mandart document on your machine to open it in MandArt.
 3. In MandArt, use the "-" button to zoom out to see where we are looking. 
 
-[Download](Lefts/Left1.mandart)
+<a href="Lefts/Left1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Left1"](Lefts/Left1.png)
 
 -----
@@ -28,7 +37,7 @@ To see more:
 
 - See all [Rectangles](Rectangles/_index.md)
 
-[Download](Rectangles/Rectangle2.mandart)
+<a href="Rectangles/Rectangle2.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangles/Rectangle2.png)
 
 -----
@@ -37,7 +46,7 @@ To see more:
 
 - See all [Rounds](Rounds/_index.md)
 
-[Download](Rounds/Round1.mandart)
+<a href="Rounds/Round1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Round1"](Rounds/Round1.png)
 
 -----
@@ -46,7 +55,7 @@ To see more:
 
 - See all [Seahorses](Seahorses/_index.md)
 
-[Download](Seahorses/Seahorse.mandart)
+<a href="Seahorses/Seahorse.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorses/Seahorse.png)
 
 -----
@@ -55,7 +64,7 @@ To see more:
 
 - See all [Spirals](Spirals/_index.md)
 
-[Download](Spirals/Spiral1.mandart)
+<a href="Spirals/Spiral1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Spiral1"](Spirals/Spiral1.png)
 
 -----
@@ -64,7 +73,7 @@ To see more:
 
 - See all [Swirls](Swirls/_index.md)
 
-[Download](Swirls/10Swirl1.mandart)
+<a href="Swirls/10Swirl1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["10Swirl1"](Swirls/10Swirl1.png)
 
 -----
@@ -73,7 +82,7 @@ To see more:
 
 - See all [Tops](Tops/_index.md)
 
-[Download](Tops/Top1.mandart)
+<a href="Tops/Top1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Top1"](Tops/Top1.png)
 
 
@@ -83,71 +92,71 @@ To see more:
 
 ### MandArt 1
 
-[Download](MandArt1.mandart)
+<a href="MandArt1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt1"](MandArt1.png)
 
 ### MandArt 2
 
-[Download](MandArt2.mandart)
+<a href="MandArt2.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt2"](MandArt2.png)
 
 ### MandArt 3
 
-[Download](MandArt3.mandart)
+<a href="MandArt3.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt3"](MandArt3.png)
 
 ### MandArt 4
 
-[Download](MandArt4.mandart)
+<a href="MandArt4.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt4"](MandArt4.png)
 
 ### MandArt 5
 
-[Download](MandArt5.mandart)
+<a href="MandArt5.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt5"](MandArt5.png)
 
 ### MandArt 6
 
-[Download](MandArt6.mandart)
+<a href="MandArt6.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt6"](MandArt6.png)
 
 ### MandArt 7
 
-[Download](MandArt7.mandart)
+<a href="MandArt7.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt7"](MandArt7.png)
 
 ### MandArt 8
 
-[Download](MandArt8.mandart)
+<a href="MandArt8.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["MandArt8"](MandArt8.png)
 
 ### Rectangle 1
 
-[Download](Rectangle1.mandart)
+<a href="Rectangle1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangle1.png)
 
 ### Rectangle 2
 
-[Download](Rectangle2.mandart)
+<a href="Rectangle2.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle2"](Rectangle2.png)
 
 ### Rectangle 3
 
-[Download](Rectangle3.mandart)
+<a href="Rectangle3.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle3"](Rectangle3.png)
 
 ### Rectangle 4
 
-[Download](Rectangle4.mandart)
+<a href="Rectangle4.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle4"](Rectangle4.png)
 
 ### Rectangle 5
 
-[Download](Rectangle5.mandart)
+<a href="Rectangle5.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Rectangle5"](Rectangle5.png)
 
 ### Sea Horse
 
-[Download](Seahorse.mandart)
+<a href="Seahorse.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorse.png)
 
