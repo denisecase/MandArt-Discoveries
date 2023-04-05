@@ -41,7 +41,7 @@ If you make a new discovery or create custom art, we'd love to see it!
 ## Download Discoveries to Open them in MandArt
 
 You can explore any of these discoveries in MandArt on your Mac.
-To open the document on your machine for futher exploration, follow these steps.
+To open the document on your machine for further exploration, follow these steps.
 
 1. In GitHub, click the "Click here to download" link above an image to jump to the associated .mandart document file in GitHub.
 2. On the GitHub page for the document, click the download icon in the upper right corner to download the .mandart document to your machine. 
