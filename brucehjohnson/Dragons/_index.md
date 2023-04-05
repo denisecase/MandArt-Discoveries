@@ -16,5 +16,5 @@ Contributed by:
 
 ## Dragon3
 
-<a href="Dragon3.mandart" download="Dragon3.mandart">Click here to download</a><br>
-!["Dragon3"](Dragon3.png)
+<a href="Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
+!["Dragons3"](Dragons3.png)
