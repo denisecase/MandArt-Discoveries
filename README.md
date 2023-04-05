@@ -137,3 +137,13 @@ We look forward to hearing from you!
 
 - [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+
+-----
+
+## See Also
+
+If you like MandArt, you might enjoy these resources as well.
+
+- [Mandelmap (Poster)](https://www.mandelmap.com/)
+- [Mandelbrot Set (Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- [The Hardest Trip - Mandelbrot Zoom (YouTube](https://www.youtube.com/watch?v=LhOSM6uCWxk) and others from [Maths Town](https://www.youtube.com/@MathsTown)
