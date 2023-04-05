@@ -31,18 +31,6 @@ Contributed by:
 The "Left" examples (see the one shown below), may look like the main Mandlebrot set.
 Surprisingly, they are not. This example below is actually showing the very far _left_ of the landscape. 
 
-To open the document on your machine for futher exploration, follow these steps.
-
-1. In GitHub, click the "Click here to download" link above the image to jump to the associated Left1.mandart document file in GitHub.
-2. On the GitHub page for the document, click the download icon in the upper right corner to download the Left1.mandart document to your machine. 
-2. On your Mac, double-click the Left1.mandart document on your machine (use Finder as needed) to open the document in MandArt.
-3. In MandArt, use the zoom out (-) button to see where the landscape is located, modify the colors, or explore further.
-
-When viewing the .mandart document file in GitHub, the download icon in the upper right of the document window looks like this:
-
-![GitHub download icon](../_resources/download_icon.PNG)
-
-
 <a href="Lefts/Left1.mandart" download="Left1.mandart">Click here to download</a><br>
 !["Left1"](Lefts/Left1.png)
 
