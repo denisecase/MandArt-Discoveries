@@ -19,8 +19,8 @@ Contributed by:
 
 - See all [Dragons](Dragons/_index.md)
 
-<a href="Dragons/Dragon1.mandart" download="Dragon1.mandart">Click here to download</a><br>
-!["Dragon1"](Dragons/Dragon1.png)
+<a href="Dragons/Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
+!["Dragons3"](Dragons/Dragons3.png)
 
 -----
 
