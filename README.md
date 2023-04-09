@@ -6,7 +6,7 @@ made by exploring the Mandelbrot set, and its complement, and boundary using Man
 
 Click here to see some interesting discoveries:
 
- - [Contributed by Bruce H Johnson](brucehjohnson/_index.md)
+ - [Contributed by Bruce H Johnson](brucehjohnson/index.md)
 
 -----
 
