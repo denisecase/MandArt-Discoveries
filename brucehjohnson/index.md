@@ -6,27 +6,27 @@ Contributed by:
 
 -----
 
-## [Diamonds](Diamonds/)
+## [Diamonds](Diamonds/index.md)
 
-- See all [Diamonds](Diamonds/)
+- See all [Diamonds](Diamonds/index.md)
 
 <a href="Diamonds/Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Diamond1"](Diamonds/Diamond1.png)
 
 -----
 
-## [Dragons](Dragons/)
+## [Dragons](Dragons/index.md)
 
-- See all [Dragons](Dragons/)
+- See all [Dragons](Dragons/index.md)
 
 <a href="Dragons/Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
 !["Dragons3"](Dragons/Dragons3.png)
 
 -----
 
-## [Lefts](Lefts/_index.md)
+## [Lefts](Lefts/index.md)
 
-- See all [Lefts](Lefts/_index.md)
+- See all [Lefts](Lefts/index.md)
 
 The "Left" examples (see the one shown below), may look like the main Mandlebrot set.
 Surprisingly, they are not. This example below is actually showing the very far _left_ of the landscape. 
@@ -54,9 +54,9 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 -----
 
-## [Seahorses](Seahorses/_index.md)
+## [Seahorses](Seahorses/index.md)
 
-- See all [Seahorses](Seahorses/_index.md)
+- See all [Seahorses](Seahorses/index.md)
 
 <a href="Seahorses/Seahorse.mandart" download="Seahorse.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorses/Seahorse.png)
@@ -72,18 +72,18 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 -----
 
-## [Swirls](Swirls/_index.md)
+## [Swirls](Swirls/index.md)
 
-- See all [Swirls](Swirls/_index.md)
+- See all [Swirls](Swirls/index.md)
 
 <a href="Swirls/10Swirl1.mandart" download="10Swirl1.mandart">Click here to download</a><br>
 !["10Swirl1"](Swirls/10Swirl1.png)
 
 -----
 
-## [Tops](Tops/_index.md)
+## [Tops](Tops/index.md)
 
-- See all [Tops](Tops/_index.md)
+- See all [Tops](Tops/index.md)
 
 <a href="Tops/Top1.mandart" download="Top1.mandart">Click here to download</a><br>
 !["Top1"](Tops/Top1.png)
