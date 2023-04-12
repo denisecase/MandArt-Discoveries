@@ -7,8 +7,7 @@ Contributed by:
 ## Rectangle 1
 
 <a href="Rectangle1.mandart" download="Rectangle1.mandart">Click here to download</a><br>
-!["Rect![Rectangle1](https://user-images.githubusercontent.com/127142432/231506992-897507c6-c4dd-4bcf-b136-f39311803b0a.png)
-angle1"](Rectangle1.png)
+!["Rectangle1"](Rectangle1.png)
 
 ## Rectangle 2
 
