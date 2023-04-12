@@ -7,7 +7,7 @@ Contributed by:
 ## Rectangle 1
 
 <a href="Rectangle1.mandart" download="Rectangle1.mandart">Click here to download</a><br>
-No image available
+!["Rectangle1"](Rectangle1.png)
 
 ## Rectangle 2
 
