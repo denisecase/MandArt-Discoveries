@@ -4,11 +4,6 @@ Contributed by:
 
 - [brucehjohnson](https://github.com/brucehjohnson)
 
-## Diamond
-
-<a href="Diamond.mandart" download="Diamond.mandart">Click here to download</a><br>
-No image available
-
 ## Diamond1
 
 <a href="Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
