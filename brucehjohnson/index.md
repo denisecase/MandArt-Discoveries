@@ -6,18 +6,18 @@ Contributed by:
 
 -----
 
-## [Diamonds](Diamonds/_index.md)
+## [Diamonds](Diamonds/)
 
-- See all [Diamonds](Diamonds/_index.md)
+- See all [Diamonds](Diamonds/)
 
 <a href="Diamonds/Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Diamond1"](Diamonds/Diamond1.png)
 
 -----
 
-## [Dragons](Dragons/_index.md)
+## [Dragons](Dragons/)
 
-- See all [Dragons](Dragons/_index.md)
+- See all [Dragons](Dragons/)
 
 <a href="Dragons/Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
 !["Dragons3"](Dragons/Dragons3.png)
@@ -36,9 +36,9 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 -----
 
-## [Rectangles](Rectangles/_index.md)
+## [Rectangles](Rectangles/)
 
-- See all [Rectangles](Rectangles/_index.md)
+- See all [Rectangles](Rectangles/)
 
 <a href="Rectangles/Rectangle2.mandart" download="Rectangle2.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangles/Rectangle2.png)
