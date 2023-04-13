@@ -10,7 +10,7 @@ Discoveries folder:
 
 ## AAF1
 
-Hello.
+This spiral has three arms. Embedded in each arm is one of the following areas. They are similar, but different.
 
 <a href="AAF1.mandart" download="AAF1.mandart">Click here to download</a><br>
 !["AAF1"](AAF1.png)
