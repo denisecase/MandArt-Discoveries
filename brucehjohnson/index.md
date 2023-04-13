@@ -171,8 +171,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 - See all [Swirls](Swirls/index.md)
 
-<a href="Swirls/10Swirl1.mandart" download="10Swirl1.mandart">Click here to download</a><br>
-!["10Swirl1"](Swirls/10Swirl1.png)
+<a href="Swirls/Swirl1.mandart" download="Swirl1.mandart">Click here to download</a><br>
+!["Swirl1"](Swirls/Swirl1.png)
 
 -----
 
