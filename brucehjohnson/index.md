@@ -131,18 +131,18 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 -----
 
-## [Rectangles](Rectangles/)
+## [Rectangles](Rectangles/index.md)
 
-- See all [Rectangles](Rectangles/)
+- See all [Rectangles](Rectangles/index.md)
 
 <a href="Rectangles/Rectangle2.mandart" download="Rectangle2.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangles/Rectangle2.png)
 
 -----
 
-## [Rounds](Rounds/_index.md)
+## [Rounds](Rounds/index.md)
 
-- See all [Rounds](Rounds/_index.md)
+- See all [Rounds](Rounds/index.md)
 
 <a href="Rounds/Round1.mandart" download="Round1.mandart">Click here to download</a><br>
 !["Round1"](Rounds/Round1.png)
@@ -158,9 +158,9 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 -----
 
-## [Spirals](Spirals/_index.md)
+## [Spirals](Spirals/index.md)
 
-- See all [Spirals](Spirals/_index.md)
+- See all [Spirals](Spirals/index.md)
 
 <a href="Spirals/Spiral1.mandart" download="Spiral1.mandart">Click here to download</a><br>
 !["Spiral1"](Spirals/Spiral1.png)
