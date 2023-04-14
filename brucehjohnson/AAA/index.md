@@ -12,7 +12,7 @@ Discoveries folder:
 
 These are taken from the AAA region. 
 
-![AAA](AAA/AAA.png)
+![AAA](AAA.png)
 
 -----
 
