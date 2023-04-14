@@ -105,6 +105,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 - See all [Diamonds](Diamonds/index.md)
 
+These are taken from the Diamonds region. 
+
 <a href="Diamonds/Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Diamond1"](Diamonds/Diamond1.png)
 
@@ -114,6 +116,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 - See all [Dragons](Dragons/index.md)
 
+These are taken from the  region. 
+
 <a href="Dragons/Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
 !["Dragons3"](Dragons/Dragons3.png)
 
@@ -122,6 +126,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 ## [Lefts](Lefts/index.md)
 
 - See all [Lefts](Lefts/index.md)
+- 
+These are taken from the Lefts region. 
 
 The "Left" examples (see the one shown below), may look like the main Mandlebrot set.
 Surprisingly, they are not. This example below is actually showing the very far _left_ of the landscape. 
@@ -135,6 +141,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 - See all [Rectangles](Rectangles/index.md)
 
+These are taken from the Rectangles region. 
+
 <a href="Rectangles/Rectangle2.mandart" download="Rectangle2.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangles/Rectangle2.png)
 
@@ -143,6 +151,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 ## [Rounds](Rounds/index.md)
 
 - See all [Rounds](Rounds/index.md)
+
+These are taken from the Rounds region. 
 
 <a href="Rounds/Round1.mandart" download="Round1.mandart">Click here to download</a><br>
 !["Round1"](Rounds/Round1.png)
@@ -153,6 +163,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 - See all [Seahorses](Seahorses/index.md)
 
+These are taken from the Seahorses region. 
+
 <a href="Seahorses/Seahorse.mandart" download="Seahorse.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorses/Seahorse.png)
 
@@ -161,6 +173,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 ## [Spirals](Spirals/index.md)
 
 - See all [Spirals](Spirals/index.md)
+
+These are taken from the Spirals region. 
 
 <a href="Spirals/Spiral1.mandart" download="Spiral1.mandart">Click here to download</a><br>
 !["Spiral1"](Spirals/Spiral1.png)
@@ -171,6 +185,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 - See all [Swirls](Swirls/index.md)
 
+These are taken from the Swirls region. 
+
 <a href="Swirls/Swirl1.mandart" download="Swirl1.mandart">Click here to download</a><br>
 !["Swirl1"](Swirls/Swirl1.png)
 
@@ -179,6 +195,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 ## [Tops](Tops/index.md)
 
 - See all [Tops](Tops/index.md)
+
+These are taken from the Tops region. 
 
 <a href="Tops/Top1.mandart" download="Top1.mandart">Click here to download</a><br>
 !["Top1"](Tops/Top1.png)
