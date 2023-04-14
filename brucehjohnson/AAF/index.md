@@ -8,6 +8,14 @@ Discoveries folder:
 
 - [MandArt-Discoveries/brucehjohnson](https://github.com/denisecase/MandArt-Discoveries/tree/main/brucehjohnson)
 
+-----
+
+These are taken from the AAF region. 
+
+![AAF](AAF.png)
+
+-----
+
 ## AAF1
 
 This spiral has three arms. Embedded in each arm is one of the following areas. They are similar, but different.
