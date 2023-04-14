@@ -8,6 +8,14 @@ Discoveries folder:
 
 - [MandArt-Discoveries/brucehjohnson](https://github.com/denisecase/MandArt-Discoveries/tree/main/brucehjohnson)
 
+-----
+
+These are taken from the AAB region. 
+
+![AAB](AAB.png)
+
+-----
+
 ## AAB1
 
 <a href="AAB1.mandart" download="AAB1.mandart">Click here to download</a><br>
