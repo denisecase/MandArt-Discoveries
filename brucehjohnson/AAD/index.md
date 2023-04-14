@@ -8,6 +8,14 @@ Discoveries folder:
 
 - [MandArt-Discoveries/brucehjohnson](https://github.com/denisecase/MandArt-Discoveries/tree/main/brucehjohnson)
 
+-----
+
+These are taken from the AAD region. 
+
+![AAD](AAD.png)
+
+-----
+
 ## AAD1
 
 <a href="AAD1.mandart" download="AAD1.mandart">Click here to download</a><br>
