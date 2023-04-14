@@ -8,6 +8,14 @@ Discoveries folder:
 
 - [MandArt-Discoveries/brucehjohnson](https://github.com/denisecase/MandArt-Discoveries/tree/main/brucehjohnson)
 
+-----
+
+These are taken from the AAC region. 
+
+![AAC](AAC.png)
+
+-----
+
 ## AAC1
 
 <a href="AAC1.mandart" download="AAC1.mandart">Click here to download</a><br>
