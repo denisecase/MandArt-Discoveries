@@ -187,6 +187,8 @@ These are taken from the Spirals region.
 
 These are taken from the Swirls region. 
 
+!["Swirls"](Swirls/Swirls.png)
+
 <a href="Swirls/Swirl1.mandart" download="Swirl1.mandart">Click here to download</a><br>
 !["Swirl1"](Swirls/Swirl1.png)
 
