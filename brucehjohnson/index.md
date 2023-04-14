@@ -17,9 +17,11 @@ Discoveries folder:
 
 These are taken from the AAA region. 
 
+![AAA](AAA/AAA.png)
+
 <a href="AAA/AAA1.mandart" download="AAA1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
-!["AAA1"](AAA/AAA1.png)
+![AAA1](AAA/AAA1.png)
 
 -----
 
@@ -29,9 +31,11 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the AAB region. 
 
+![AAB](AAB/AAB.png)
+
 <a href="AAB/AAB1.mandart" download="AAB1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
-!["AAB1"](AAB/AAB1.png)
+![AAB1](AAB/AAB1.png)
 
 -----
 ## [AAC](AAC/index.md)
@@ -39,6 +43,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 - See all [AAC](AAC/index.md)
 
 These are taken from the AAC region. 
+
+![AAC](AAC/AAC.png)
 
 <a href="AAC/AAC1.mandart" download="AAC1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
@@ -51,6 +57,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the AAD region. 
 
+![AAD](AAD/AAD.png)
+
 <a href="AAD/AAD1.mandart" download="AAD1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
 !["AAD1"](AAD/AAD1.png)
@@ -61,6 +69,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 - See all [AAE](AAE/index.md)
 
 These are taken from the AAE region. 
+
+![AAE](AAE/AAE.png)
 
 <a href="AAE/AAE1.mandart" download="AAE1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
@@ -73,6 +83,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the AAF region. 
 
+![AAF](AAF/AAF.png)
+
 <a href="AAF/AAF1.mandart" download="AAF1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
 !["AAF1"](AAF/AAF1.png)
@@ -84,6 +96,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the AAG region. 
 
+![AAG](AAG/AAG.png)
+
 <a href="AAG/AAG1.mandart" download="AAG1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
 !["AAG1"](AAG/AAG1.png)
@@ -94,6 +108,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 - See all [AAJ](AAJ/index.md)
 
 These are taken from the AAJ region. 
+
+![AAJ](AAJ/AAJ.png)
 
 <a href="AAJ/AAJ1.mandart" download="AAJ1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
@@ -107,6 +123,8 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the Diamonds region. 
 
+![Diamonds](Diamonds/Diamonds.png)
+
 <a href="Diamonds/Diamond1.mandart" download="Diamond1.mandart">Click here to download</a><br>
 !["Diamond1"](Diamonds/Diamond1.png)
 
@@ -118,6 +136,8 @@ These are taken from the Diamonds region.
 
 These are taken from the  region. 
 
+![Dragons](Dragons/Dragons.png)
+
 <a href="Dragons/Dragons3.mandart" download="Dragons3.mandart">Click here to download</a><br>
 !["Dragons3"](Dragons/Dragons3.png)
 
@@ -128,6 +148,8 @@ These are taken from the  region.
 - See all [Lefts](Lefts/index.md)
 - 
 These are taken from the Lefts region. 
+
+![Lefts](Lefts/Lefts.png)
 
 The "Left" examples (see the one shown below), may look like the main Mandlebrot set.
 Surprisingly, they are not. This example below is actually showing the very far _left_ of the landscape. 
@@ -143,6 +165,8 @@ Surprisingly, they are not. This example below is actually showing the very far 
 
 These are taken from the Rectangles region. 
 
+![Rectangles](Rectangles/Rectangles.png)
+
 <a href="Rectangles/Rectangle2.mandart" download="Rectangle2.mandart">Click here to download</a><br>
 !["Rectangle1"](Rectangles/Rectangle2.png)
 
@@ -152,7 +176,9 @@ These are taken from the Rectangles region.
 
 - See all [Rounds](Rounds/index.md)
 
-These are taken from the Rounds region. 
+These are taken from the Rounds region.
+
+![Rounds](Rounds/Rounds.png)
 
 <a href="Rounds/Round1.mandart" download="Round1.mandart">Click here to download</a><br>
 !["Round1"](Rounds/Round1.png)
@@ -165,6 +191,8 @@ These are taken from the Rounds region.
 
 These are taken from the Seahorses region. 
 
+![Seahorses](Seahorses/Seahorses.png)
+
 <a href="Seahorses/Seahorse.mandart" download="Seahorse.mandart">Click here to download</a><br>
 !["Seahorse"](Seahorses/Seahorse.png)
 
@@ -175,6 +203,8 @@ These are taken from the Seahorses region.
 - See all [Spirals](Spirals/index.md)
 
 These are taken from the Spirals region. 
+
+![Spirals](Spirals/Spirals.png)
 
 <a href="Spirals/Spiral1.mandart" download="Spiral1.mandart">Click here to download</a><br>
 !["Spiral1"](Spirals/Spiral1.png)
@@ -187,7 +217,7 @@ These are taken from the Spirals region.
 
 These are taken from the Swirls region. 
 
-!["Swirls"](Swirls/Swirls.png)
+![Swirls](Swirls/Swirls.png)
 
 <a href="Swirls/Swirl1.mandart" download="Swirl1.mandart">Click here to download</a><br>
 !["Swirl1"](Swirls/Swirl1.png)
@@ -199,6 +229,8 @@ These are taken from the Swirls region.
 - See all [Tops](Tops/index.md)
 
 These are taken from the Tops region. 
+
+![Tops](Tops/Tops.png)
 
 <a href="Tops/Top1.mandart" download="Top1.mandart">Click here to download</a><br>
 !["Top1"](Tops/Top1.png)
