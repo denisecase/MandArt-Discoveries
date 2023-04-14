@@ -2,7 +2,19 @@
 
 Contributed by:
 
-- [brucehjohnson](https://github.com/brucehjohnson)
+- [github.com/brucehjohnson](https://github.com/brucehjohnson)
+
+Discoveries folder:
+
+- [MandArt-Discoveries/brucehjohnson](https://github.com/denisecase/MandArt-Discoveries/tree/main/brucehjohnson)
+
+-----
+
+These are taken from the Lefts region, to the left of the area, also known as the "needle".
+
+![Lefts](Lefts.png)
+
+-----
 
 ## Left1
 
