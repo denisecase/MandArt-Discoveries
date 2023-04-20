@@ -135,7 +135,7 @@ Then click "Raw", then from Safari menu, File / Save As...
 
 These are taken from the AAL region. 
 
-![AAL](AAL/AAL1.png)
+![AAL](AAL/AAL.png)
 
 <a href="AAL/AAL1.mandart" download="AAL1.mandart">Click here to download</a><br>
 Then click "Raw", then from Safari menu, File / Save As...
