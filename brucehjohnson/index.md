@@ -116,6 +116,33 @@ Then click "Raw", then from Safari menu, File / Save As...
 !["AAJ1"](AAJ/AAJ1.png)
 
 -----
+## [AAK](AAK/index.md)
+
+- See all [AAK](AAK/index.md)
+
+These are taken from the AAK region. 
+
+![AAK](AAK/AAK.png)
+
+<a href="AAK/AAK1.mandart" download="AAK1.mandart">Click here to download</a><br>
+Then click "Raw", then from Safari menu, File / Save As...
+!["AAK1"](AAK/AAK1.png)
+
+-----
+## [AAL](AAL/index.md)
+
+- See all [AAL](AAL/index.md)
+
+These are taken from the AAL region. 
+
+![AAL](AAL/AAL1.png)
+
+<a href="AAL/AAL1.mandart" download="AAL1.mandart">Click here to download</a><br>
+Then click "Raw", then from Safari menu, File / Save As...
+!["AAL1"](AAL/AAL1.png)
+
+-----
+
 
 ## [Diamonds](Diamonds/index.md)
 
