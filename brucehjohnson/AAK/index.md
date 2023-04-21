@@ -18,8 +18,8 @@ These are taken from the AAK region.
 
 ## AAK1
 
-<a href="AAJ1.mandart" download="AAK1.mandart">Click here to download</a><br>
-!["AAK1"](AAJ1.png)
+<a href="AAK1.mandart" download="AAK1.mandart">Click here to download</a><br>
+!["AAK1"](AAK1.png)
 
 ## AAK2
 
