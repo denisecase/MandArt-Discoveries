@@ -16,49 +16,49 @@ Discoveries folder:
 
 !["10Swirl1Frame"](10Swirl1Frame.png)
 
-!["Frame 1"]("Frame 1.png")
+!["Frame1"](Frame1.png)
 
-!["Frame 2"]("Frame 2.png")
+!["Frame2"](Frame2.png)
 
-!["Frame 3"]("Frame 3.png")
+!["Frame3"](Frame3.png)
 
-!["Frame 4"]("Frame 4.png")
+!["Frame4"](Frame4.png)
 
-!["Frame 5"]("Frame 5.png")
+!["Frame5"](Frame5.png)
 
-!["Frame 6"]("Frame 6.png")
+!["Frame6"](Frame6.png)
 
-!["Frame 7"]("Frame 7.png")
+!["Frame7"](Frame7.png)
 
-!["Frame 8"]("Frame 8.png")
+!["Frame8"](Frame8.png)
 
-!["Frame 9"]("Frame 9.png")
+!["Frame9"](Frame9.png)
 
-!["Frame 10"]("Frame 10.png")
+!["Frame10"](Frame10.png)
 
-!["Frame 11"]("Frame 11.png")
+!["Frame11"](Frame11.png)
 
-!["Frame 12"]("Frame 12.png")
+!["Frame12"](Frame12.png)
 
-!["Frame 13"]("Frame 13.png")
+!["Frame13"](Frame13.png)
 
-!["Frame 14"]("Frame 14.png")
+!["Frame14"](Frame14.png)
 
-!["Frame 15"]("Frame 15.png")
+!["Frame15"](Frame15.png)
 
-!["Frame 16"]("Frame 16.png")
+!["Frame16"](Frame16.png)
 
-!["Frame 17"]("Frame 17.png")
+!["Frame17"](Frame17.png)
 
-!["Frame 18"]("Frame 18.png")
+!["Frame18"](Frame18.png)
 
-!["Frame 19"]("Frame 19.png")
+!["Frame19"](Frame19.png)
 
-!["Frame 20"]("Frame 20.png")
+!["Frame20"](Frame20.png)
 
-!["Frame 21"]("Frame 21.png")
+!["Frame21"](Frame21.png)
 
-!["Frame 22"]("Frame 22.png")
+!["Frame22"](Frame22.png)
 
 !["Swirl1Frame"](Swirl1Frame.png)
 
