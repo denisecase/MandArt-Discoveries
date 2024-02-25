@@ -91,7 +91,7 @@ done
 
 
 # Loop through all JSON files in the source directory
-for json_file in $SOURCE_DIR/*.json; do
+for json_file in $SOURCE_DIR/*.mandart; do
     # Extract filename without path
     filename=$(basename -- "$json_file")
 
