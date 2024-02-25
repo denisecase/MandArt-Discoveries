@@ -79,14 +79,20 @@ for i in {0..51}; do
     value=$(echo "$value + 0.0625" | bc)
 done
 
-# Populate yCenterLookup
-for i in {-20..20}; do
-    index=$(calculate_index $i 0.25 -1.25 4)
-    if [[ $i -lt 0 ]]; then
-        yCenterLookup[$index]=$(printf "%02d" $((20 + $i + 1)))
+# Populate yCenterLookup correctly for both positive and negative ranges
+min_y=-1.25
+max_y=1.25
+step_y=0.0625 # This is 0.25/4.0
+index=0
+for value in $(seq $min_y $step_y $max_y); do
+    if (( $(echo "$value < 0" | bc -l) )); then
+        # Handling negative values
+        yCenterLookup[$index]=$(printf "%02d" $((index - 20)))
     else
-        yCenterLookup[$index]=$(printf "%02d" $i)
+        # Handling positive values and zero
+        yCenterLookup[$index]=$(printf "%02d" $index)
     fi
+    ((index++))
 done
 
 
@@ -94,7 +100,7 @@ done
 for json_file in $SOURCE_DIR/*.mandart; do
     # print the full path of the original file
     echo "Processing $json_file"
-    
+
     # Extract filename without path
     filename=$(basename -- "$json_file")
 
@@ -106,9 +112,15 @@ for json_file in $SOURCE_DIR/*.mandart; do
     xIndex=$(calculate_index $xCenter 0.0625 -2.25 1)
     yIndex=$(calculate_index $yCenter 0.25 -1.25 4)
 
+    # Print the calculated indices
+    echo "xIndex: $xIndex, yIndex: $yIndex"
+
     # Lookup the corresponding letter and code
     xLetter=${xCenterLookup[$xIndex]}
     yCode=${yCenterLookup[$yIndex]}
+
+    # Print the lookup results
+    echo "xLetter: $xLetter, yCode: $yCode"
 
     # Create a directory name based on lookup results
     dir_name="$BHJ_DIR/${xLetter}_${yCode}"
