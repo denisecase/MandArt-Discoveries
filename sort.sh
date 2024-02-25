@@ -92,6 +92,9 @@ done
 
 # Loop through all JSON files in the source directory
 for json_file in $SOURCE_DIR/*.mandart; do
+    # print the full path of the original file
+    echo "Processing $json_file"
+    
     # Extract filename without path
     filename=$(basename -- "$json_file")
 
