@@ -122,19 +122,23 @@ for json_file in $SOURCE_DIR/*.mandart; do
     # Print the lookup results
     echo "xLetter: $xLetter, yCode: $yCode"
 
-    # Create a directory name based on lookup results
+       # Create a directory name based on lookup results
     dir_name="$BHJ_DIR/${xLetter}_${yCode}"
     mkdir -p "$dir_name"
 
-    # Construct the PNG file name from the JSON file name
-    png_file="${filename%.json}.png"
-    png_path="$SOURCE_DIR/${png_file}"
+    # Construct the base PNG file name from the .mandart file name
+    base_png_file="${filename%.mandart}"
 
-    # Move the JSON and PNG files to the created directory
+    # Move the .mandart file to the created directory
     mv "$json_file" "$dir_name"
-    if [ -f "$png_path" ]; then
-        mv "$png_path" "$dir_name"
-    fi
 
-    echo "Moved $filename and $png_file to $dir_name"
+    # Check and move the corresponding .png or .PNG file
+    shopt -s nocaseglob # Enable case-insensitive globbing
+    for png_path in $SOURCE_DIR/${base_png_file}.{png,PNG}; do
+        if [ -f "$png_path" ]; then
+            mv "$png_path" "$dir_name"
+            echo "Moved $filename and $(basename -- "$png_path") to $dir_name"
+        fi
+    done
+    shopt -u nocaseglob # Disable case-insensitive globbing
 done
