@@ -280,7 +280,7 @@ display_lookups
 test_xCenters
 test_yCenters
 test_folder_names
-# main
+main
 
 # (base) denisecase@Denises-MacBook-Air MandArt-Discoveries % ./sort.sh
 # Warning: jq 1.7.1 already installed
