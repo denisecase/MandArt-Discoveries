@@ -139,7 +139,6 @@ test_xCenters() {
     fi
 }
 
-
 test_yCenters() {
     local test_passed=true
     # add one expected value for the start of each new letter 
@@ -168,6 +167,53 @@ test_yCenters() {
     fi
 }
 
+test_folder_names() {
+    local test_passed=true
+
+    # Predefined test cases with expected folder names
+    declare -a testCases=(
+        "-2.25,-1.25,a_-20"
+        "0.75,1.25,V_20"
+        "0.0,0,K_00"
+        "-1.75,-0.75,i_-12"
+    )
+
+    for testCase in "${testCases[@]}"; do
+        IFS=',' read -r xCenter yCenter expectedFolder <<< "$testCase"
+
+        # Calculate indices
+        local xIndex=$(calculate_x_index $xCenter 0.0625 -2.25 1)
+        local yIndex=$(calculate_y_index $yCenter 0.0625 -1.25 1)
+        
+        # Validate indices are within the valid range
+        if (( xIndex < 1 || xIndex > 48 || yIndex < 0 || yIndex > 40 )); then
+            echo "Error: xCenter $xCenter or yCenter $yCenter is out of range."
+            test_passed=false
+            continue # Skip this test case and move to the next
+        fi
+
+        # Lookup
+        local xLetter=${xCenterLookup[$xIndex]}
+        local yCode=${yCenterLookup[$yIndex]}
+
+        # Construct folder name
+        local folderName="${xLetter}_${yCode}"
+
+        if [ "$folderName" != "$expectedFolder" ]; then
+            echo "Test folder name with xCenter $xCenter and yCenter $yCenter failed: expected $expectedFolder, got $folderName"
+            test_passed=false
+        else
+            echo "Test folder name with xCenter $xCenter and yCenter $yCenter passed: expected $expectedFolder, got $folderName"
+        fi
+    done
+
+    if [ "$test_passed" = true ]; then
+        echo "All folder name tests passed."
+    else
+        echo "Some folder name tests failed."
+    fi
+}
+
 
 main() {
     for json_file in $SOURCE_DIR/*.mandart; do
@@ -178,21 +224,29 @@ main() {
         xCenter=$(jq '.xCenter' "$json_file")
         yCenter=$(jq '.yCenter' "$json_file")
 
-        # Calculate xIndex for lookup
+        # Calculate xIndex and yIndex for lookup
         xIndex=$(calculate_x_index $xCenter 0.0625 -2.25 1)
-        xLetter=${xCenterLookup[$xIndex]}
+        yIndex=$(calculate_y_index $yCenter 0.0625 -1.25 1)
 
-        # Calculate yIndex for lookup
-        yIndex=$(calculate_y_index $yCenter 0.0625 -1.25 1)   
+        # Validate indices are within the valid range
+        if (( xIndex < 1 || xIndex > 48 || yIndex < 0 || yIndex > 40 )); then
+            echo "Notice: xCenter $xCenter or yCenter $yCenter is out of range for $filename. Skipping..."
+            continue # Skip to the next .mandart file without creating a folder or moving files
+        fi
+
+        # Lookup xLetter and yCode using valid indices
+        xLetter=${xCenterLookup[$xIndex]}
         yCode=${yCenterLookup[$yIndex]}
 
-        echo "xIndex: $xIndex, yIndex: $yIndex"
-        echo "xLetter: $xLetter, yCode: $yCode"
+        # Log the intended folder name for verification
+        echo "Intended folder: ${xLetter}_${yCode}"
 
+        # Create directory and move files (if indices are valid and this part of the code is reached)
         dir_name="$BHJ_DIR/${xLetter}_${yCode}"
         mkdir -p "$dir_name"
         mv "$json_file" "$dir_name"
 
+        # Match and move corresponding .png file
         base_png_file="${filename%.mandart}"
         shopt -s nocaseglob # Enable case-insensitive globbing
         for png_path in $SOURCE_DIR/${base_png_file}.{png,PNG}; do
@@ -201,18 +255,18 @@ main() {
                 echo "Moved $filename and $(basename -- "$png_path") to $dir_name"
             fi
         done
-        shopt -u nocaseglob
+        shopt -u nocaseglob # Disable case-insensitive globbing
     done
 }
 
+
+
  
 display_lookups() {
-
     # Print the lookup tables one entry per line
     for i in "${!xCenterLookup[@]}"; do
         echo "xCenterLookup[$i] = ${xCenterLookup[$i]}"
     done
-
     # Print the lookup tables one entry per line
     for i in "${!yCenterLookup[@]}"; do
         echo "yCenterLookup[$i] = ${yCenterLookup[$i]}"
@@ -225,6 +279,7 @@ populate_yCenterLookup
 display_lookups
 test_xCenters
 test_yCenters
+test_folder_names
 # main
 
 # (base) denisecase@Denises-MacBook-Air MandArt-Discoveries % ./sort.sh
