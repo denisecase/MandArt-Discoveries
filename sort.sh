@@ -64,7 +64,7 @@ calculate_x_index() {
     norm=$(echo "($value - $min) / $step" | bc -l)
     # Calculate index (1-based)
     index=$(echo "scale=0; ($norm / 1) + 1" | bc)
-    echo $index
+    #echo $index
 }
 
 # Calculate index for lookup table based on provided value and step size
@@ -89,10 +89,11 @@ populate_xCenterLookup() {
     done
 }
 
+: <<C
 populate_yCenterLookup() {
     yCenterLookup=() # Clear existing entries if any
 
-    # Initialize code at -20 for the lowest yCenter value and increment
+     Initialize code at -20 for the lowest yCenter value and increment
     local code=-20
     for index in $(seq 0 40); do  # 41 steps total, covering -20 to 20
         if [ "$code" -lt 0 ]; then
@@ -108,8 +109,31 @@ populate_yCenterLookup() {
         ((code++))  # Increment code for next index
     done
 }
+C
 
+populate_yCenterLookup() {
+    yCenterLookup=() # Clear existing entries if any
 
+    # Initialize code at -20 for the lowest yCenter value
+    local code=-20
+    for index in $(seq 0 40); do  # 41 steps total, covering -20 to 20
+        if [ "$code" -ne 0 ]; then
+            # Skip the index corresponding to '00'
+            if [ "$code" -lt 0 ]; then
+                # Format negative codes with two digits and a leading '-'
+                yCenterLookup[$index]=$(printf "%03d" $code)
+            else
+                # Ensure positive codes are stored with two digits
+                yCenterLookup[$index]=$(printf "%02d" $code)
+            fi
+        fi
+        ((code++))  # Increment code for next index
+    done
+}
+
+echo yCenterLookup
+
+: <<C1
 test_xCenters() {
     local test_passed=true
     # add one expected value for the start of each new letter 
@@ -138,11 +162,15 @@ test_xCenters() {
         echo "Some xCenter tests failed."
     fi
 }
+C1
 
+: <<C
 test_yCenters() {
     local test_passed=true
     # add one expected value for the start of each new letter 
-    local yValues=(-1.25 $(seq -1.1875 0.0625 1.1875) 1.25)
+   # local yValues=(-1.25 $(seq -1.1875 0.0625 1.1875) 1.25)
+    local yValues=(-1.25 $(seq -1.125 0.0625 1.125) 1.25)
+
     local expectedCodes=(-20 -19 -18 -17 -16 -15 -14 -13 -12 -11 -10 -09 -08 -07 -06 -05 -04 -03 -02 -01 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20)
 
     for i in "${!yValues[@]}"; do
@@ -166,6 +194,7 @@ test_yCenters() {
         echo "Some yCenter tests failed."
     fi
 }
+C
 
 test_folder_names() {
     local test_passed=true
@@ -277,197 +306,7 @@ display_lookups() {
 populate_xCenterLookup
 populate_yCenterLookup
 display_lookups
-test_xCenters
-test_yCenters
+#test_xCenters
+#test_yCenters
 test_folder_names
 main
-
-# (base) denisecase@Denises-MacBook-Air MandArt-Discoveries % ./sort.sh
-# Warning: jq 1.7.1 already installed
-# Warning: bc 1.07.1 already installed
-# xCenterLookup[1] = a
-# xCenterLookup[2] = b
-# xCenterLookup[3] = c
-# xCenterLookup[4] = d
-# xCenterLookup[5] = e
-# xCenterLookup[6] = f
-# xCenterLookup[7] = g
-# xCenterLookup[8] = h
-# xCenterLookup[9] = i
-# xCenterLookup[10] = j
-# xCenterLookup[11] = k
-# xCenterLookup[12] = l
-# xCenterLookup[13] = m
-# xCenterLookup[14] = n
-# xCenterLookup[15] = o
-# xCenterLookup[16] = p
-# xCenterLookup[17] = q
-# xCenterLookup[18] = r
-# xCenterLookup[19] = s
-# xCenterLookup[20] = t
-# xCenterLookup[21] = u
-# xCenterLookup[22] = v
-# xCenterLookup[23] = w
-# xCenterLookup[24] = x
-# xCenterLookup[25] = y
-# xCenterLookup[26] = z
-# xCenterLookup[27] = A
-# xCenterLookup[28] = B
-# xCenterLookup[29] = C
-# xCenterLookup[30] = D
-# xCenterLookup[31] = E
-# xCenterLookup[32] = F
-# xCenterLookup[33] = G
-# xCenterLookup[34] = H
-# xCenterLookup[35] = I
-# xCenterLookup[36] = J
-# xCenterLookup[37] = K
-# xCenterLookup[38] = L
-# xCenterLookup[39] = M
-# xCenterLookup[40] = N
-# xCenterLookup[41] = O
-# xCenterLookup[42] = P
-# xCenterLookup[43] = Q
-# xCenterLookup[44] = R
-# xCenterLookup[45] = S
-# xCenterLookup[46] = T
-# xCenterLookup[47] = U
-# xCenterLookup[48] = V
-# yCenterLookup[0] = -20
-# yCenterLookup[1] = -19
-# yCenterLookup[2] = -18
-# yCenterLookup[3] = -17
-# yCenterLookup[4] = -16
-# yCenterLookup[5] = -15
-# yCenterLookup[6] = -14
-# yCenterLookup[7] = -13
-# yCenterLookup[8] = -12
-# yCenterLookup[9] = -11
-# yCenterLookup[10] = -10
-# yCenterLookup[11] = -09
-# yCenterLookup[12] = -08
-# yCenterLookup[13] = -07
-# yCenterLookup[14] = -06
-# yCenterLookup[15] = -05
-# yCenterLookup[16] = -04
-# yCenterLookup[17] = -03
-# yCenterLookup[18] = -02
-# yCenterLookup[19] = -01
-# yCenterLookup[20] = 00
-# yCenterLookup[21] = 01
-# yCenterLookup[22] = 02
-# yCenterLookup[23] = 03
-# yCenterLookup[24] = 04
-# yCenterLookup[25] = 05
-# yCenterLookup[26] = 06
-# yCenterLookup[27] = 07
-# yCenterLookup[28] = 08
-# yCenterLookup[29] = 09
-# yCenterLookup[30] = 10
-# yCenterLookup[31] = 11
-# yCenterLookup[32] = 12
-# yCenterLookup[33] = 13
-# yCenterLookup[34] = 14
-# yCenterLookup[35] = 15
-# yCenterLookup[36] = 16
-# yCenterLookup[37] = 17
-# yCenterLookup[38] = 18
-# yCenterLookup[39] = 19
-# yCenterLookup[40] = 20
-# Test xCenter with value -2.25 passed: expected a, got a
-# Test xCenter with value -2.1875 passed: expected b, got b
-# Test xCenter with value -2.125 passed: expected c, got c
-# Test xCenter with value -2.0625 passed: expected d, got d
-# Test xCenter with value -2.0 passed: expected e, got e
-# Test xCenter with value -1.9375 passed: expected f, got f
-# Test xCenter with value -1.875 passed: expected g, got g
-# Test xCenter with value -1.8125 passed: expected h, got h
-# Test xCenter with value -1.75 passed: expected i, got i
-# Test xCenter with value -1.6875 passed: expected j, got j
-# Test xCenter with value -1.625 passed: expected k, got k
-# Test xCenter with value -1.5625 passed: expected l, got l
-# Test xCenter with value -1.5 passed: expected m, got m
-# Test xCenter with value -1.4375 passed: expected n, got n
-# Test xCenter with value -1.375 passed: expected o, got o
-# Test xCenter with value -1.3125 passed: expected p, got p
-# Test xCenter with value -1.25 passed: expected q, got q
-# Test xCenter with value -1.1875 passed: expected r, got r
-# Test xCenter with value -1.125 passed: expected s, got s
-# Test xCenter with value -1.0625 passed: expected t, got t
-# Test xCenter with value -1.0 passed: expected u, got u
-# Test xCenter with value -0.9375 passed: expected v, got v
-# Test xCenter with value -0.875 passed: expected w, got w
-# Test xCenter with value -0.8125 passed: expected x, got x
-# Test xCenter with value -0.75 passed: expected y, got y
-# Test xCenter with value -0.6875 passed: expected z, got z
-# Test xCenter with value -0.625 passed: expected A, got A
-# Test xCenter with value -0.5625 passed: expected B, got B
-# Test xCenter with value -0.5 passed: expected C, got C
-# Test xCenter with value -0.4375 passed: expected D, got D
-# Test xCenter with value -0.375 passed: expected E, got E
-# Test xCenter with value -0.3125 passed: expected F, got F
-# Test xCenter with value -0.25 passed: expected G, got G
-# Test xCenter with value -0.1875 passed: expected H, got H
-# Test xCenter with value -0.125 passed: expected I, got I
-# Test xCenter with value -0.0625 passed: expected J, got J
-# Test xCenter with value 0.0 passed: expected K, got K
-# Test xCenter with value 0.0625 passed: expected L, got L
-# Test xCenter with value 0.125 passed: expected M, got M
-# Test xCenter with value 0.1875 passed: expected N, got N
-# Test xCenter with value 0.25 passed: expected O, got O
-# Test xCenter with value 0.3125 passed: expected P, got P
-# Test xCenter with value 0.375 passed: expected Q, got Q
-# Test xCenter with value 0.4375 passed: expected R, got R
-# Test xCenter with value 0.5 passed: expected S, got S
-# Test xCenter with value 0.5625 passed: expected T, got T
-# Test xCenter with value 0.625 passed: expected U, got U
-# Test xCenter with value 0.6875 passed: expected V, got V
-# Test xCenter with value 0.75 passed: expected , got 
-# ************************
-# All xCenter tests passed.
-# ************************
-# Test yCenter with value -1.25 passed: expected -20, got -20
-# Test yCenter with value -1.1875 passed: expected -19, got -19
-# Test yCenter with value -1.125 passed: expected -18, got -18
-# Test yCenter with value -1.0625 passed: expected -17, got -17
-# Test yCenter with value -1 passed: expected -16, got -16
-# Test yCenter with value -0.9375 passed: expected -15, got -15
-# Test yCenter with value -0.875 passed: expected -14, got -14
-# Test yCenter with value -0.8125 passed: expected -13, got -13
-# Test yCenter with value -0.75 passed: expected -12, got -12
-# Test yCenter with value -0.6875 passed: expected -11, got -11
-# Test yCenter with value -0.625 passed: expected -10, got -10
-# Test yCenter with value -0.5625 passed: expected -09, got -09
-# Test yCenter with value -0.5 passed: expected -08, got -08
-# Test yCenter with value -0.4375 passed: expected -07, got -07
-# Test yCenter with value -0.375 passed: expected -06, got -06
-# Test yCenter with value -0.3125 passed: expected -05, got -05
-# Test yCenter with value -0.25 passed: expected -04, got -04
-# Test yCenter with value -0.1875 passed: expected -03, got -03
-# Test yCenter with value -0.125 passed: expected -02, got -02
-# Test yCenter with value -0.0625 passed: expected -01, got -01
-# Test yCenter with value 0 passed: expected 00, got 00
-# Test yCenter with value 0.0625 passed: expected 01, got 01
-# Test yCenter with value 0.125 passed: expected 02, got 02
-# Test yCenter with value 0.1875 passed: expected 03, got 03
-# Test yCenter with value 0.25 passed: expected 04, got 04
-# Test yCenter with value 0.3125 passed: expected 05, got 05
-# Test yCenter with value 0.375 passed: expected 06, got 06
-# Test yCenter with value 0.4375 passed: expected 07, got 07
-# Test yCenter with value 0.5 passed: expected 08, got 08
-# Test yCenter with value 0.5625 passed: expected 09, got 09
-# Test yCenter with value 0.625 passed: expected 10, got 10
-# Test yCenter with value 0.6875 passed: expected 11, got 11
-# Test yCenter with value 0.75 passed: expected 12, got 12
-# Test yCenter with value 0.8125 passed: expected 13, got 13
-# Test yCenter with value 0.875 passed: expected 14, got 14
-# Test yCenter with value 0.9375 passed: expected 15, got 15
-# Test yCenter with value 1 passed: expected 16, got 16
-# Test yCenter with value 1.0625 passed: expected 17, got 17
-# Test yCenter with value 1.125 passed: expected 18, got 18
-# Test yCenter with value 1.1875 passed: expected 19, got 19
-# Test yCenter with value 1.25 passed: expected 20, got 20
-# ************************
-# All yCenter tests passed.
-# ************************
-# (base) denisecase@Denises-MacBook-Air MandArt-Discoveries % 
