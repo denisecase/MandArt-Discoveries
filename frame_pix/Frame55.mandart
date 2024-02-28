@@ -1,0 +1,122 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "8FF7DFC2-85BC-403A-B1A8-D9BCF36A0039",
+      "num" : 1,
+      "r" : 0
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0.9999999403953552
+      },
+      "g" : 255,
+      "id" : "73E571A0-0E01-4FBD-AE4E-A354F28C9303",
+      "num" : 2,
+      "r" : 255
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "F6D2BA3B-9A23-484E-AD0B-04EFAD596777",
+      "num" : 3,
+      "r" : 255
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "C146933A-090A-4EC6-9663-83DC2B11E149",
+      "num" : 4,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "9F2ED832-7C39-43E4-93F3-5FF90A170F57",
+      "num" : 5,
+      "r" : 255
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "F1484C87-1857-4771-9C23-E94B6E037AF7",
+      "num" : 6,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "3DC1A378-094D-467D-8D3F-4FAD1ECD3393",
+      "num" : 7,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0.9999999403953552,
+        "red" : 0.9999999403953552
+      },
+      "g" : 255,
+      "id" : "48CE6C57-2E69-447C-935B-6D939FE452EF",
+      "num" : 8,
+      "r" : 255
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "FD6C455C-23DC-4AD3-A356-0CDC34FD473C",
+  "imageHeight" : 1000,
+  "imageWidth" : 1400,
+  "iterationsMax" : 500000,
+  "leftNumber" : 1,
+  "nBlocks" : 55,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 50000000,
+  "spacingColorFar" : 7,
+  "spacingColorNear" : 20,
+  "theta" : 0,
+  "xCenter" : -0.554239,
+  "yCenter" : 0.562056,
+  "yY" : 0
+}

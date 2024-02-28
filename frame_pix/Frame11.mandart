@@ -1,0 +1,62 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "A3623356-9354-4096-BE3B-88A164D74116",
+      "num" : 1,
+      "r" : 255
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "61C2F4E9-4E13-4165-ADDB-AFFC7E401187",
+      "num" : 2,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "7FE68ED6-9ACC-48AF-8978-81E6B43E271D",
+      "num" : 3,
+      "r" : 0
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "B75DB460-D629-436F-A3F5-51EA7E635273",
+  "imageHeight" : 1000,
+  "imageWidth" : 1100,
+  "iterationsMax" : 20000,
+  "leftNumber" : 1,
+  "nBlocks" : 60,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 1450000000000,
+  "spacingColorFar" : 5,
+  "spacingColorNear" : 15,
+  "theta" : 13,
+  "xCenter" : -0.74728303439128,
+  "yCenter" : 0.08451016598331994,
+  "yY" : 0
+}

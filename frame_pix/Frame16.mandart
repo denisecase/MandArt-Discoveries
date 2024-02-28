@@ -1,0 +1,98 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "967244C9-D949-4CA1-8A27-65D358B153F8",
+      "num" : 1,
+      "r" : 0
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0.9999999403953552
+      },
+      "g" : 255,
+      "id" : "7918BFAB-5820-4983-B02F-121F51340F96",
+      "num" : 2,
+      "r" : 255
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "C218D906-F4AC-4594-B293-E627D2198298",
+      "num" : 3,
+      "r" : 255
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "887F76BC-8726-42F1-AD13-F75B8F88DB24",
+      "num" : 4,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "43B801FE-147B-4B8F-B01F-30D2FC7721AD",
+      "num" : 5,
+      "r" : 0
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "A553390C-E2F3-46AD-B74E-FFAF3E7ABDAD",
+      "num" : 6,
+      "r" : 255
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "E64CE2FD-8CB5-47B6-9802-1051AC955AF8",
+  "imageHeight" : 1000,
+  "imageWidth" : 1400,
+  "iterationsMax" : 20000,
+  "leftNumber" : 1,
+  "nBlocks" : 60,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 5600000000,
+  "spacingColorFar" : 5,
+  "spacingColorNear" : 15,
+  "theta" : -75,
+  "xCenter" : -0.19011774107467297,
+  "yCenter" : 0.669318848543389,
+  "yY" : 0.2
+}
