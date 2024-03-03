@@ -1,0 +1,539 @@
+2024-03-03 17:51:41: Starting z_process_to-be-sorted.sh
+2024-03-03 17:51:41: Processing file: to-be-sorted/AAA2.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.049516469563441322
+2024-03-03 17:51:41: yCenter from .mandart: 0.67460578476528188
+2024-03-03 17:51:41: file: to-be-sorted/AAA2.mandart -> folder: I11
+2024-03-03 17:51:41: Processing file: to-be-sorted/Top copy.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:41: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:41: file: to-be-sorted/Top copy.mandart -> folder: F11
+2024-03-03 17:51:41: Processing file: to-be-sorted/Top.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:41: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:41: file: to-be-sorted/Top.mandart -> folder: F11
+2024-03-03 17:51:41: Processing file: to-be-sorted/AAF1.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.049516475122133821
+2024-03-03 17:51:41: yCenter from .mandart: 0.67460579092368134
+2024-03-03 17:51:41: file: to-be-sorted/AAF1.mandart -> folder: I11
+2024-03-03 17:51:41: Processing file: to-be-sorted/AAG1.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.38707012190880341
+2024-03-03 17:51:41: yCenter from .mandart: 0.62396932292039109
+2024-03-03 17:51:41: file: to-be-sorted/AAG1.mandart -> folder: C10
+2024-03-03 17:51:41: Processing file: to-be-sorted/AAA3.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.049516474624964148
+2024-03-03 17:51:41: yCenter from .mandart: 0.67460578985279807
+2024-03-03 17:51:41: file: to-be-sorted/AAA3.mandart -> folder: I11
+2024-03-03 17:51:41: Processing file: to-be-sorted/Top1 copy.mandart
+2024-03-03 17:51:41: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:41: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:42: file: to-be-sorted/Top1 copy.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/G_10/Top.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:42: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/G_10/Top.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/G_10/AAB3.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:42: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/G_10/AAB3.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/G_10/Top1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:42: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/G_10/Top1.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/G_10/AAB2.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:42: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/G_10/AAB2.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/G_10/AAB1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.19011774107467297
+2024-03-03 17:51:42: yCenter from .mandart: 0.66931884854338897
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/G_10/AAB1.mandart -> folder: F11
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/Q_05/Rectangle5.mandart
+2024-03-03 17:51:42: xCenter from .mandart: 0.39181480129192825
+2024-03-03 17:51:42: yCenter from .mandart: 0.36892678540696061
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/Q_05/Rectangle5.mandart -> folder: P06
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/Q_05/Rectangle5copy.mandart
+2024-03-03 17:51:42: xCenter from .mandart: 0.39181480129192825
+2024-03-03 17:51:42: yCenter from .mandart: 0.36892678540696061
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/Q_05/Rectangle5copy.mandart -> folder: P06
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/Q_05/Rectangle4.mandart
+2024-03-03 17:51:42: xCenter from .mandart: 0.39181473896008451
+2024-03-03 17:51:42: yCenter from .mandart: 0.36892688432185633
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/Q_05/Rectangle4.mandart -> folder: P06
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_00/Bhj1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.75
+2024-03-03 17:51:42: yCenter from .mandart: 0
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_00/Bhj1.mandart -> folder: x01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_00/DMC1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.75
+2024-03-03 17:51:42: yCenter from .mandart: 0
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_00/DMC1.mandart -> folder: x01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_00/MA.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.75
+2024-03-03 17:51:42: yCenter from .mandart: 0
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_00/MA.mandart -> folder: x01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/q_03/Dragons3.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.1965284783624623
+2024-03-03 17:51:42: yCenter from .mandart: 0.24115805089024309
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/q_03/Dragons3.mandart -> folder: p04
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303344328295
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166269620005
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 1.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 8.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380004202
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166386689706
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 8.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/AAA8.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303438079202
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510165973625692
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/AAA8.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 2.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380194105
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373228196
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 2.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 3.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380194105
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373228196
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 3.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/FourSinkholes4.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380100003
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373199996
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/FourSinkholes4.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 7.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380100003
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373199996
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 7.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MamdArt 6.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380189998
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373219994
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MamdArt 6.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 5.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380194006
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373228002
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 5.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/AAA7.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380100003
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373199996
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/AAA7.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/y_01/MandArt 4.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.74728303380194105
+2024-03-03 17:51:42: yCenter from .mandart: 0.084510166373228196
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/y_01/MandArt 4.mandart -> folder: x02
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/x_02/Swirl2.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.7893561751343483
+2024-03-03 17:51:42: yCenter from .mandart: 0.15055188134659167
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/x_02/Swirl2.mandart -> folder: w03
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/x_02/Swirl1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -0.78919436432594481
+2024-03-03 17:51:42: yCenter from .mandart: 0.15062121014262353
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/x_02/Swirl1.mandart -> folder: w03
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/AAL1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2566126989014568
+2024-03-03 17:51:42: yCenter from .mandart: 0.03086841145030797
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/AAL1.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/AAL3.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2566235615883987
+2024-03-03 17:51:42: yCenter from .mandart: 0.030865251421753743
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/AAL3.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/AAL2.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2566235548058551
+2024-03-03 17:51:42: yCenter from .mandart: 0.03086525337891451
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/AAL2.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/Spiral.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2556073477101881
+2024-03-03 17:51:42: yCenter from .mandart: 0.061663640931595209
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/Spiral.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/AAL4.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2566235969145931
+2024-03-03 17:51:42: yCenter from .mandart: 0.030865244809853469
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/AAL4.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/Spiral1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.2556073477101881
+2024-03-03 17:51:42: yCenter from .mandart: 0.061663640931595209
+2024-03-03 17:51:42: file: to-be-sorted/to-be-resorted/p_00/Spiral1.mandart -> folder: o01
+2024-03-03 17:51:42: Processing file: to-be-sorted/to-be-resorted/p_00/Dragon1.mandart
+2024-03-03 17:51:42: xCenter from .mandart: -1.261395627564893
+2024-03-03 17:51:42: yCenter from .mandart: 0.039802356925194432
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/p_00/Dragon1.mandart -> folder: o01
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/p_00/AAL5.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -1.2566235969145931
+2024-03-03 17:51:43: yCenter from .mandart: 0.030865244809853469
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/p_00/AAL5.mandart -> folder: o01
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/AAJ2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37204123640853121
+2024-03-03 17:51:43: yCenter from .mandart: 0.090425529171567362
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/AAJ2.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/AAJ3.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37204123642539161
+2024-03-03 17:51:43: yCenter from .mandart: 0.090425529149395542
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/AAJ3.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/AAJ1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37204117216825422
+2024-03-03 17:51:43: yCenter from .mandart: 0.090425289241116105
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/AAJ1.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/Diamond1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37220407584752746
+2024-03-03 17:51:43: yCenter from .mandart: 0.091692964398423921
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/Diamond1.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/Diamond.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37220404936842283
+2024-03-03 17:51:43: yCenter from .mandart: 0.091692958986840906
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/Diamond.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/Diamond3.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37220404936842283
+2024-03-03 17:51:43: yCenter from .mandart: 0.091692958986840906
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/Diamond3.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/P_01/Diamond2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37220407584752746
+2024-03-03 17:51:43: yCenter from .mandart: 0.091692964398423921
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/P_01/Diamond2.mandart -> folder: O02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Rectangle1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37861651612441594
+2024-03-03 17:51:43: yCenter from .mandart: 0.098118137903386804
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Rectangle1.mandart -> folder: P02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Rectangle2 copy.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37861651612441594
+2024-03-03 17:51:43: yCenter from .mandart: 0.098118137903386804
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Rectangle2 copy.mandart -> folder: P02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Rectangle2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37861651612441594
+2024-03-03 17:51:43: yCenter from .mandart: 0.098118137903386804
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Rectangle2.mandart -> folder: P02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Rectangle3.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37861651612441594
+2024-03-03 17:51:43: yCenter from .mandart: 0.09811813790338679
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Rectangle3.mandart -> folder: P02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Dragon2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -1.243729120042435
+2024-03-03 17:51:43: yCenter from .mandart: 0.11621968507073648
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Dragon2.mandart -> folder: p02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_01/Rectangle1 copy.mandart
+2024-03-03 17:51:43: xCenter from .mandart: 0.37861651612441594
+2024-03-03 17:51:43: yCenter from .mandart: 0.098118137903386804
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_01/Rectangle1 copy.mandart -> folder: P02
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_00/AAK2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -1.2494110213731697
+2024-03-03 17:51:43: yCenter from .mandart: 0.060346463703183521
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_00/AAK2.mandart -> folder: p01
+2024-03-03 17:51:43: Processing file: to-be-sorted/to-be-resorted/q_00/AAK1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -1.2494094172523222
+2024-03-03 17:51:43: yCenter from .mandart: 0.060347363892800342
+2024-03-03 17:51:43: file: to-be-sorted/to-be-resorted/q_00/AAK1.mandart -> folder: p01
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAA1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516469563441322
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460578476528188
+2024-03-03 17:51:43: file: to-be-sorted/AAA1.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAB1 copy.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.19011774107467297
+2024-03-03 17:51:43: yCenter from .mandart: 0.66931884854338897
+2024-03-03 17:51:43: file: to-be-sorted/AAB1 copy.mandart -> folder: F11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAF3.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516472907351929
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460579303940216
+2024-03-03 17:51:43: file: to-be-sorted/AAF3.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAE5.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516464240406795
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460578400331295
+2024-03-03 17:51:43: file: to-be-sorted/AAE5.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAE4.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516463827319855
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460578296969897
+2024-03-03 17:51:43: file: to-be-sorted/AAE4.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/Seahorse.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.74356690000000003
+2024-03-03 17:51:43: yCenter from .mandart: 0.1314023
+2024-03-03 17:51:43: file: to-be-sorted/Seahorse.mandart -> folder: x03
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAA9.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516474403230308
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460579015873301
+2024-03-03 17:51:43: file: to-be-sorted/AAA9.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/Round1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.32213586208432216
+2024-03-03 17:51:43: yCenter from .mandart: 0.62972698655239367
+2024-03-03 17:51:43: file: to-be-sorted/Round1.mandart -> folder: D11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAF2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516474624896015
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460578985294473
+2024-03-03 17:51:43: file: to-be-sorted/AAF2.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAG2.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.38707012211797831
+2024-03-03 17:51:43: yCenter from .mandart: 0.62396932351306134
+2024-03-03 17:51:43: file: to-be-sorted/AAG2.mandart -> folder: C10
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAA5.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516599167583504
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460575054418448
+2024-03-03 17:51:43: file: to-be-sorted/AAA5.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAB2 copy.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:43: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:43: file: to-be-sorted/AAB2 copy.mandart -> folder: F11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAA12.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516472907351922
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460579303940216
+2024-03-03 17:51:43: file: to-be-sorted/AAA12.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAE1.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.049516469563441301
+2024-03-03 17:51:43: yCenter from .mandart: 0.67460578476528199
+2024-03-03 17:51:43: file: to-be-sorted/AAE1.mandart -> folder: I11
+2024-03-03 17:51:43: Processing file: to-be-sorted/AAB3.mandart
+2024-03-03 17:51:43: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:43: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:44: file: to-be-sorted/AAB3.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/Round.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.32213586208432216
+2024-03-03 17:51:44: yCenter from .mandart: 0.62972698655239367
+2024-03-03 17:51:44: file: to-be-sorted/Round.mandart -> folder: D11
+2024-03-03 17:51:44: Processing file: to-be-sorted/Top1.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.19700354058792036
+2024-03-03 17:51:44: yCenter from .mandart: 0.67444285864736142
+2024-03-03 17:51:44: file: to-be-sorted/Top1.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAB3 copy.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:44: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:44: file: to-be-sorted/AAB3 copy.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAB2.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.19011774005210341
+2024-03-03 17:51:44: yCenter from .mandart: 0.66931884329585545
+2024-03-03 17:51:44: file: to-be-sorted/AAB2.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAC2.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -1.4011997241026517
+2024-03-03 17:51:44: yCenter from .mandart: 0.000028863956634328527
+2024-03-03 17:51:44: file: to-be-sorted/AAC2.mandart -> folder: m01
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAA13.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.049516475401228111
+2024-03-03 17:51:44: yCenter from .mandart: 0.67460578959105988
+2024-03-03 17:51:44: file: to-be-sorted/AAA13.mandart -> folder: I11
+2024-03-03 17:51:44: Processing file: to-be-sorted/Frame16.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.19011774107467297
+2024-03-03 17:51:44: yCenter from .mandart: 0.669318848543389
+2024-03-03 17:51:44: file: to-be-sorted/Frame16.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAE2.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.049516463826746515
+2024-03-03 17:51:44: yCenter from .mandart: 0.67460578297157414
+2024-03-03 17:51:44: file: to-be-sorted/AAE2.mandart -> folder: I11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAF4.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.049516475401228111
+2024-03-03 17:51:44: yCenter from .mandart: 0.67460578959105988
+2024-03-03 17:51:44: file: to-be-sorted/AAF4.mandart -> folder: I11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAA10.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.049516474624896022
+2024-03-03 17:51:44: yCenter from .mandart: 0.67460578985294473
+2024-03-03 17:51:44: file: to-be-sorted/AAA10.mandart -> folder: I11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAB1.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.19011774107467297
+2024-03-03 17:51:44: yCenter from .mandart: 0.66931884854338897
+2024-03-03 17:51:44: file: to-be-sorted/AAB1.mandart -> folder: F11
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAC1.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -1.40119972190211
+2024-03-03 17:51:44: yCenter from .mandart: 0.0000290268339044
+2024-03-03 17:51:44: file: to-be-sorted/AAC1.mandart -> folder: m01
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAE3.mandart
+2024-03-03 17:51:44: xCenter from .mandart: -0.049516463826746515
+2024-03-03 17:51:44: yCenter from .mandart: 0.67460578297157414
+2024-03-03 17:51:44: file: to-be-sorted/AAE3.mandart -> folder: I11
+2024-03-03 17:51:44: Processing file: to-be-sorted/M14.png
+2024-03-03 17:51:44: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:44: Error: vertical_yCenter not found in description
+2024-03-03 17:51:44: Processing file: to-be-sorted/AAF2.png
+2024-03-03 17:51:44: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:44: Error: vertical_yCenter not found in description
+2024-03-03 17:51:44: Processing file: to-be-sorted/Seahorse.png
+2024-03-03 17:51:44: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:44: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/Dragons.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:45: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/AAF3.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:45: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/M15.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:45: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/AAF1.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:45: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/Rectangle2copy.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:45: Error: vertical_yCenter not found in description
+2024-03-03 17:51:45: Processing file: to-be-sorted/ExamplesMailMandArt02.png
+2024-03-03 17:51:45: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/AAF4.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/AAG1.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/M11.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/Seahorses.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/AAG2.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:46: Error: vertical_yCenter not found in description
+2024-03-03 17:51:46: Processing file: to-be-sorted/AAA5.png
+2024-03-03 17:51:46: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/Rectangle1copy.png
+2024-03-03 17:51:47: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/AAK.png
+2024-03-03 17:51:47: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/Lefts.png
+2024-03-03 17:51:47: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/Swirl2Frame.png
+2024-03-03 17:51:47: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/AAJ.png
+2024-03-03 17:51:47: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:47: Error: vertical_yCenter not found in description
+2024-03-03 17:51:47: Processing file: to-be-sorted/AAA3.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/AAL.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/AAAcopy.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/AAA2.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/Rectangles.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/10Swirl2Frame.png
+2024-03-03 17:51:48: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:48: Error: vertical_yCenter not found in description
+2024-03-03 17:51:48: Processing file: to-be-sorted/AAA1.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/AAB.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/AAC.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/AAB1.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/Tops.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/AAB3.png
+2024-03-03 17:51:49: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:49: Error: vertical_yCenter not found in description
+2024-03-03 17:51:49: Processing file: to-be-sorted/AAA.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:50: Error: vertical_yCenter not found in description
+2024-03-03 17:51:50: Processing file: to-be-sorted/AAA6copy.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:50: Error: vertical_yCenter not found in description
+2024-03-03 17:51:50: Processing file: to-be-sorted/Swirls.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:50: Error: vertical_yCenter not found in description
+2024-03-03 17:51:50: Processing file: to-be-sorted/Diamonds.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:50: Error: vertical_yCenter not found in description
+2024-03-03 17:51:50: Processing file: to-be-sorted/AAB2.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:50: Error: vertical_yCenter not found in description
+2024-03-03 17:51:50: Processing file: to-be-sorted/Screenshot2023-03-14at11.02.39AM.png
+2024-03-03 17:51:50: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:51: Error: vertical_yCenter not found in description
+2024-03-03 17:51:51: Processing file: to-be-sorted/Top1.png
+2024-03-03 17:51:51: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:51: Error: vertical_yCenter not found in description
+2024-03-03 17:51:51: Processing file: to-be-sorted/AAC2.png
+2024-03-03 17:51:51: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:51: Error: vertical_yCenter not found in description
+2024-03-03 17:51:51: Processing file: to-be-sorted/Spirals.png
+2024-03-03 17:51:51: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:51: Error: vertical_yCenter not found in description
+2024-03-03 17:51:51: Processing file: to-be-sorted/Frame16.png
+2024-03-03 17:51:51: Processing file: to-be-sorted/AAE.png
+2024-03-03 17:51:51: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:51: Error: vertical_yCenter not found in description
+2024-03-03 17:51:51: Processing file: to-be-sorted/AAC1.png
+2024-03-03 17:51:51: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/AAA9.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/AAG.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/MandArt02.png.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/AAF.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/10Swirl0Frame.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:52: Error: vertical_yCenter not found in description
+2024-03-03 17:51:52: Processing file: to-be-sorted/Round1.png
+2024-03-03 17:51:52: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/10Swirl1Frame.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/Left01.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/M9.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/AAE4.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/Rounds.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:53: Error: vertical_yCenter not found in description
+2024-03-03 17:51:53: Processing file: to-be-sorted/AAE5.png
+2024-03-03 17:51:53: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/M8.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/AAE1.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/AAA04.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/AAA10.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/dmc.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:54: Processing file: to-be-sorted/AAE2.png
+2024-03-03 17:51:54: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:54: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/AAA4copy.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/Image.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/AAA06.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/AAA12.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/AAA13.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/Swirl1Frame.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:55: Processing file: to-be-sorted/AAE3.png
+2024-03-03 17:51:55: Error: horizontal_xCenter not found in description
+2024-03-03 17:51:55: Error: vertical_yCenter not found in description
+2024-03-03 17:51:56: Completed main() function

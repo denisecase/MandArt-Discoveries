@@ -1,0 +1,98 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "1A0A9018-8DA8-4359-9A48-1327A4668FF1",
+      "num" : 1,
+      "r" : 0
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "94A8C808-551F-48F7-8B8D-4690EE059626",
+      "num" : 2,
+      "r" : 0
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "37ABA283-EEA6-4B7C-8479-E37B89377A5F",
+      "num" : 3,
+      "r" : 255
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "E0EF086A-F27E-4DCA-93AD-6A0E9503AA15",
+      "num" : 4,
+      "r" : 255
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0.9999999403953552
+      },
+      "g" : 255,
+      "id" : "EE421673-058D-47CD-B655-7769744B75DB",
+      "num" : 5,
+      "r" : 255
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "EC966868-1DAB-490D-A519-46E07B4D4818",
+      "num" : 6,
+      "r" : 0
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "2335B89D-88AB-4264-A942-7ACE0AC3137A",
+  "imageHeight" : 1000,
+  "imageWidth" : 1000,
+  "iterationsMax" : 10000,
+  "leftNumber" : 1,
+  "nBlocks" : 60,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 1900000000000000,
+  "spacingColorFar" : 5,
+  "spacingColorNear" : 15,
+  "theta" : 155,
+  "xCenter" : -0.0495165991675835,
+  "yCenter" : 0.674605750544184,
+  "yY" : 0.4
+}

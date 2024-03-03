@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # To run the script, place it in root project directory, open a terminal and run:
 #
@@ -123,11 +123,11 @@ report_actions "$TBP_DIR"
 report_actions "$TBP2_DIR"
 report_actions "$X_DIR"
 
-# Confirm with the user before proceeding
-# read -p "Proceed with file operations? (y/n) " confirm
-# if [[ "$confirm" == "y" ]]; then
-#     main
-# else
-#     echo "Operation aborted."
-#     rm "$SOURCE_MD5_FILE" # Clean up the temporary file if operation is not confirmed
-# fi
+Confirm with the user before proceeding
+read -p "Proceed with file operations? (y/n) " confirm
+if [[ "$confirm" == "y" ]]; then
+    main
+else
+    echo "Operation aborted."
+    rm "$SOURCE_MD5_FILE" # Clean up the temporary file if operation is not confirmed
+fi

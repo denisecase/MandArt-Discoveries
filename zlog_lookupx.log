@@ -1,0 +1,32 @@
+2024-03-03 17:45:13: Running main() function
+2024-03-03 17:45:13: Testing value: -2.26
+2024-03-03 17:45:13: Error: Value -2.26 does not map to a valid bucket
+2024-03-03 17:45:13: Testing value: -2.25
+2024-03-03 17:45:13: Error: Value -2.25 does not map to a valid bucket
+2024-03-03 17:45:13: Testing value: -2.24999
+2024-03-03 17:45:13: Error: Value -2.24999 does not map to a valid bucket
+2024-03-03 17:45:13: Testing value: -1.0
+2024-03-03 17:45:13: Value -1.0 maps to bucket t
+2024-03-03 17:45:13: Testing value: 0.0
+2024-03-03 17:45:13: Value 0.0 maps to bucket J
+2024-03-03 17:45:13: Testing value: 0.749
+2024-03-03 17:45:13: Value 0.749 maps to bucket U
+2024-03-03 17:45:13: Testing value: 0.75
+2024-03-03 17:45:13: Error: Value 0.75 does not map to a valid bucket
+2024-03-03 17:45:13: Completed main() function
+2024-03-03 17:45:30: Running main() function
+2024-03-03 17:45:30: Testing value: -2.26
+2024-03-03 17:45:30: Error: Value -2.26 does not map to a valid bucket
+2024-03-03 17:45:30: Testing value: -2.25
+2024-03-03 17:45:30: Error: Value -2.25 does not map to a valid bucket
+2024-03-03 17:45:30: Testing value: -2.24999
+2024-03-03 17:45:30: Error: Value -2.24999 does not map to a valid bucket
+2024-03-03 17:45:30: Testing value: -1.0
+2024-03-03 17:45:30: Value -1.0 maps to bucket t
+2024-03-03 17:45:30: Testing value: 0.0
+2024-03-03 17:45:30: Value 0.0 maps to bucket J
+2024-03-03 17:45:30: Testing value: 0.749
+2024-03-03 17:45:30: Value 0.749 maps to bucket U
+2024-03-03 17:45:30: Testing value: 0.75
+2024-03-03 17:45:30: Error: Value 0.75 does not map to a valid bucket
+2024-03-03 17:45:30: Completed main() function

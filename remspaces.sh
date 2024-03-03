@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # To run the script, place it in root project directory, open a terminal and run:
 #

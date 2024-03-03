@@ -1,0 +1,74 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 126.62879873853211,
+      "color" : {
+        "blue" : 0.4965834617614746,
+        "green" : 0.9999999403953552,
+        "red" : 0.9999999403953552
+      },
+      "g" : 254.99998480081558,
+      "id" : "212D4204-AA70-41B2-8E54-CA85C1E4E34A",
+      "num" : 1,
+      "r" : 254.99998480081558
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.9999999403953552,
+        "red" : 0
+      },
+      "g" : 254.99998480081558,
+      "id" : "813389E0-C0E1-4719-AA58-42D3FB0D2536",
+      "num" : 2,
+      "r" : 0
+    },
+    {
+      "b" : 126.96692230504587,
+      "color" : {
+        "blue" : 0.4979094862937927,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "EFC73A68-D3AD-43CF-A6A6-2F81F8446A55",
+      "num" : 3,
+      "r" : 0
+    },
+    {
+      "b" : 254.99998480081558,
+      "color" : {
+        "blue" : 0.9999999403953552,
+        "green" : 0,
+        "red" : 0.9999999403953552
+      },
+      "g" : 0,
+      "id" : "521F690B-C9C2-4B43-AB6A-2FFACCF4F306",
+      "num" : 4,
+      "r" : 254.99998480081558
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "6DA3A777-0C94-423F-AD08-A98F43F31010",
+  "imageHeight" : 1000,
+  "imageWidth" : 1000,
+  "iterationsMax" : 10000,
+  "leftNumber" : 1,
+  "nBlocks" : 36,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 400000000000000,
+  "spacingColorFar" : 6,
+  "spacingColorNear" : 25,
+  "theta" : 34,
+  "xCenter" : 0.37861651612441594,
+  "yCenter" : 0.0981181379033868,
+  "yY" : 0
+}
