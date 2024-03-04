@@ -1,12 +1,88 @@
 # MandArt Discoveries
 
-Welcome to the MandArt Discoveries repository! 
-This repository is a shared space for storing and sharing discoveries 
+Welcome to the MandArt Discoveries repository!
+This repository is a shared space for storing and sharing discoveries
 made by exploring the Mandelbrot set, and its complement, and boundary using MandArt.
 
 Click here to see some interesting discoveries:
 
- - [Contributed by Bruce H Johnson](brucehjohnson/index.md)
+- [Contributed by Bruce H Johnson](brucehjohnson/index.md)
+
+## Featured Discoveries
+
+Explore the collections of MandArt discovered by contributors. Click on the links below to view more from each region:
+
+### [Click here for Region Da01 Discoveries](/brucehjohnson/MAPPED/Da01/index.md)
+
+![Da01 First Frame](brucehjohnson/MAPPED/Da01/Frame54.png)
+
+---
+
+### [Click here for Region Ea01 Discoveries](/brucehjohnson/MAPPED/Ea01/index.md)
+
+![Ea01 First Frame](brucehjohnson/MAPPED/Ea01/Frame33.png)
+
+---
+
+### [Click here for Region Ea02 Discoveries](/brucehjohnson/MAPPED/Ea02/index.md)
+
+![Ea02 First Frame](brucehjohnson/MAPPED/Ea02/Frame47.png)
+
+---
+
+### [Click here for Region Fa03 Discoveries](/brucehjohnson/MAPPED/Fa03/index.md)
+
+![Fa03 First Frame](brucehjohnson/MAPPED/Fa03/Frame05.png)
+
+---
+
+### [Click here for Region Ga02 Discoveries](/brucehjohnson/MAPPED/Ga02/index.md)
+
+![Ga02 First Frame](brucehjohnson/MAPPED/Ga02/Frame10.png)
+
+---
+
+### [Click here for Region Ga03 Discoveries](/brucehjohnson/MAPPED/Ga03/index.md)
+
+![Ga03 First Frame](brucehjohnson/MAPPED/Ga03/Frame40.png)
+
+---
+
+### [Click here for Region Ga09 Discoveries](/brucehjohnson/MAPPED/Ga09/index.md)
+
+![Ga09 First Frame](brucehjohnson/MAPPED/Ga09/Frame55.png)
+
+---
+
+### [Click here for Region Ha10 Discoveries](/brucehjohnson/MAPPED/Ha10/index.md)
+
+![Ha10 First Frame](brucehjohnson/MAPPED/Ha10/Frame27.png)
+
+---
+
+### [Click here for Region Ha11 Discoveries](/brucehjohnson/MAPPED/Ha11/index.md)
+
+![Ha11 First Frame](brucehjohnson/MAPPED/Ha11/Frame53.png)
+
+---
+
+### [Click here for Region Ia11 Discoveries](/brucehjohnson/MAPPED/Ia11/index.md)
+
+![Ia11 First Frame](brucehjohnson/MAPPED/Ia11/Frame25.png)
+
+---
+
+### [Click here for Region Ka02 Discoveries](/brucehjohnson/MAPPED/Ka02/index.md)
+
+![Ka02 First Frame](brucehjohnson/MAPPED/Ka02/Frame29.mandart)
+
+---
+
+### [Click here for Region Ka06 Discoveries](/brucehjohnson/MAPPED/Ka06/index.md)
+
+![Ka06 First Frame](brucehjohnson/MAPPED/Ka06/Frame51.png)
+
+---
 
 -----
 
@@ -19,18 +95,18 @@ These discoveries were made using MandArt, available at the link below.
 MandArt is s SwiftUI app for creating custom art with the Mandelbrot set.
 It'a available for macOS (v12+) devices for download from the Apple App Store.
 MandArt is not currently available for Windows or other non-compatible devices.
-Documentation about MandArt, the Mandelbrot set, and how to create custom MandArt 
-is available on the web. 
+Documentation about MandArt, the Mandelbrot set, and how to create custom MandArt
+is available on the web.
 
 - [MandArt Documentation (website)](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
 
-## MandArt Discoveries
+## Infinite MandArt Discovery Space
 
-The Mandelbrot set has been called one of "the most complex objects" known. 
-We could look forever and stil find new things. 
+The Mandelbrot set has been called one of "the most complex objects" known.
+We could look forever and stil find new things.
 
 Use the following site to explore some of the interesting patterns discovered so far.
-You can use this site to download the examples, color them as you like, 
+You can use this site to download the examples, color them as you like,
 or use them to start new journeys.
 If you make a new discovery or create custom art, we'd love to see it!
 
@@ -45,7 +121,7 @@ To open the document on your machine for further exploration, follow these steps
 
 1. In GitHub, click the "Click here to download" link above an image to jump to the associated .mandart document file in GitHub.
 2. When viewing the GitHub page for the .mandart document:
-   1. If using Chrome, click the download icon in the upper right corner to download the .mandart document to your machine. 
+   1. If using Chrome, click the download icon in the upper right corner to download the .mandart document to your machine.
    2. If using Safari, click "Raw", then use the Safari menu and click File / Save As and select the location where you'd like to save the .mandart document.
 3. On your Mac, double-click the .mandart document on your machine (use Finder as needed) to open the document in MandArt.
 4. In MandArt, you can use the various inputs to zoom out (-) and see where the landscape is located, modify the colors, or explore further.
@@ -58,7 +134,7 @@ With Chrome browser: when viewing the .mandart document file in GitHub, the down
 
 ## Contributing
 
-We welcome contributions from anyone interested in sharing their MandArt discoveries with the community. 
+We welcome contributions from anyone interested in sharing their MandArt discoveries with the community.
 
 ![MandArt](brucehjohnson/Bhj1.png)
 
@@ -67,20 +143,20 @@ Before contributing, please review the following guidelines and requirements:
 - Ensure that your .mandart document is valid and can be opened by the MandArt application.
 - If your file contains confidential information, please do not include it in the repository.
 
-We organize contributions by contributor. 
+We organize contributions by contributor.
 We'll ask for the following in addition to your .mandart document:
 
 - Contributor username. Your GitHub account name works great.
 - Your document should have a descriptive name with a .mandart extension.
 - If you like, include a brief description when you share.
 
-There are several ways to contribute. 
+There are several ways to contribute.
 
 ### Contributing by Creating an Issue (Recommended)
 
-If you would like to contribute to this repository, 
-create a new issue (it's a lot like creating a new item on a task list) 
-and attach your .mandart document to the issue. 
+If you would like to contribute to this repository,
+create a new issue (it's a lot like creating a new item on a task list)
+and attach your .mandart document to the issue.
 
 To create a new issue:
 
@@ -95,9 +171,9 @@ We'll review your contribution, and on acceptance, merge it into the repository.
 
 ### Contributing by Forking and Making a Pull Request (Advanced)
 
-If you would like to contribute to this repository by 
-adding a .mandart document, 
-you can fork this repository and make a pull request with your changes. 
+If you would like to contribute to this repository by
+adding a .mandart document,
+you can fork this repository and make a pull request with your changes.
 
 To make a pull request:
 
@@ -122,20 +198,20 @@ By contributing, you agree to license your contributions under the same.
 
 ## Code of Conduct
 
-We strive to maintain a welcoming and inclusive community for all contributors. 
+We strive to maintain a welcoming and inclusive community for all contributors.
 We ask that all contributors follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contact
 
-If you have any questions or feedback about this repository, 
-please visit our [GitHub Discussions](https://github.com/denisecase/MandArt-Discoveries/discussions) page. 
+If you have any questions or feedback about this repository,
+please visit our [GitHub Discussions](https://github.com/denisecase/MandArt-Discoveries/discussions) page.
 We look forward to hearing from you!
 
 -----
 
 ## Source
 
-- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
+- [MandArt source repo](https://github.com/brucehjohnson/MandArt)
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
 
 -----
@@ -147,3 +223,5 @@ If you like MandArt, you might enjoy these resources as well.
 - [Mandelmap (Poster)](https://www.mandelmap.com/)
 - [Mandelbrot Set (Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set)
 - [The Hardest Trip - Mandelbrot Zoom (YouTube](https://www.youtube.com/watch?v=LhOSM6uCWxk) and others from [Maths Town](https://www.youtube.com/@MathsTown)
+
+(c) 2020-2024 All rights reserved
