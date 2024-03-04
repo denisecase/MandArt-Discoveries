@@ -37,23 +37,6 @@ mock_safely_move_file() {
     echo "Would move $test_file to $dir_name"
 }
 
-process_png_file() {
-    local png_file="$1"
-    local xCenter=$(getx_from_png "$png_file")
-    local yCenter=$(gety_from_png "$png_file")
-
-    # Check if xCenter or yCenter is empty and move to ERR_DIR if either is missing
-    if [ -z "$xCenter" ] || [ -z "$yCenter" ]; then
-        log_message "Error: Missing xCenter or yCenter for $png_file"
-        mock_safely_move_file "$png_file" "$ERR_DIR"
-        return
-    fi
-
-    local folder=$(get_folder_for_xy "$xCenter" "$yCenter")
-    # Proceed with folder assignment and moving
-    mock_safely_move_file "$png_file" "$BHJ_DIR/$folder"
-}
-
 safely_move_file() {
     local test_file="$1"
     local dir_name="$2"
@@ -77,6 +60,22 @@ safely_move_file() {
     log_message "Moved $test_file to $dest_path"
 }
 
+process_png_file() {
+    local png_file="$1"
+    local xCenter=$(getx_from_png "$png_file")
+    local yCenter=$(gety_from_png "$png_file")
+
+    # Check if xCenter or yCenter is empty and move to ERR_DIR if either is missing
+    if [ -z "$xCenter" ] || [ -z "$yCenter" ]; then
+        log_message "Error: Missing xCenter or yCenter for $png_file"
+        safely_move_file "$png_file" "$ERR_DIR"
+        return
+    fi
+
+    local folder=$(get_folder_for_xy "$xCenter" "$yCenter")
+    # Proceed with folder assignment and moving
+    safely_move_file "$png_file" "$BHJ_DIR/$folder"
+}
 
 main() {
     echo "Starting z_process_to-be-sorted.sh"
@@ -109,13 +108,13 @@ main() {
         folder=$(get_folder_for_xy "$xCenter" "$yCenter")
         log_message "file: $file -> folder: $folder"
         echo "file: $file -> folder: $folder"
-        mock_safely_move_file "$file" "$BHJ_DIR/$folder"
+        safely_move_file "$file" "$BHJ_DIR/$folder"
 
         # if there is a matching .png file, then safely move it also
         if [[ -f "${file%.*}.png" ]]; then
             png_fname = "${file%.*}.png"
             log_message "Found matching .png file: $png_fname"
-            mock_safely_move_file "$png_fname" "$BHJ_DIR/$folder"
+            safely_move_file "$png_fname" "$BHJ_DIR/$folder"
         fi
         
     done 

@@ -2,9 +2,9 @@
 #
 # To run the script, place it in root project directory, open a terminal and run:
 #
-# chmod +x scriptinstalls.sh
+# chmod +x z_before_running.sh
 #
-# ./scriptinstalls.sh
+# ./z_before_running.sh
 
 
 # Check if Homebrew is installed
