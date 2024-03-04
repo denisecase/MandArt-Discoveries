@@ -1,0 +1,98 @@
+{
+  "dFIterMin" : 0,
+  "hues" : [
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.99999994039535522,
+        "red" : 0
+      },
+      "g" : 255,
+      "id" : "95D0681E-FF3F-43B7-9B7C-DA5299FED070",
+      "num" : 1,
+      "r" : 0
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0.5,
+        "red" : 0.5
+      },
+      "g" : 127.5,
+      "id" : "2FAEE5A4-2F91-41F3-804E-ED48FB460658",
+      "num" : 2,
+      "r" : 127.5
+    },
+    {
+      "b" : 0,
+      "color" : {
+        "blue" : 0,
+        "green" : 0,
+        "red" : 0.99999994039535522
+      },
+      "g" : 0,
+      "id" : "F2968476-1BDA-4386-9314-7C42886133AB",
+      "num" : 3,
+      "r" : 255
+    },
+    {
+      "b" : 126.76282435655594,
+      "color" : {
+        "blue" : 0.49710911512374878,
+        "green" : 0,
+        "red" : 0.49844706058502197
+      },
+      "g" : 0,
+      "id" : "CA76A54C-56C9-43C2-A453-7B2CDEE7A666",
+      "num" : 4,
+      "r" : 127.1040004491806
+    },
+    {
+      "b" : 255,
+      "color" : {
+        "blue" : 0.99999994039535522,
+        "green" : 0,
+        "red" : 0
+      },
+      "g" : 0,
+      "id" : "597C7E52-B9A7-4676-8981-C0CA29CD14D4",
+      "num" : 5,
+      "r" : 0
+    },
+    {
+      "b" : 127.51827694954127,
+      "color" : {
+        "blue" : 0.50007164478302002,
+        "green" : 0.50157684087753296,
+        "red" : 0
+      },
+      "g" : 127.9020944237709,
+      "id" : "4F90CBEC-8D30-4C70-93D1-08053821183F",
+      "num" : 6,
+      "r" : 0
+    }
+  ],
+  "huesEstimatedPrintPreview" : [
+
+  ],
+  "huesOptimizedForPrinter" : [
+
+  ],
+  "id" : "78A78DF5-AEFD-47AF-B4A0-B2920232BF02",
+  "imageHeight" : 594,
+  "imageWidth" : 1056,
+  "iterationsMax" : 10000,
+  "leftNumber" : 1,
+  "nBlocks" : 60,
+  "nImage" : 0,
+  "rSqLimit" : 400,
+  "scale" : 20000000,
+  "spacingColorFar" : 3,
+  "spacingColorNear" : 25,
+  "theta" : 0,
+  "xCenter" : -0.7893561751343483,
+  "yCenter" : 0.15055188134659167,
+  "yY" : 0
+}

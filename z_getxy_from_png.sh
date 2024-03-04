@@ -70,9 +70,6 @@ get_center_from_description() {
     echo "$value"
 }
 
-
-
-
 main() {
     log_message "Starting main() function"
     echo "Starting main() function"
