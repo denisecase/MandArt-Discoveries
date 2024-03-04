@@ -97,4 +97,4 @@ main() {
     log_message "Completed main() function"
 }
 
-#main
+main
