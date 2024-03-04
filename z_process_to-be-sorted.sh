@@ -24,7 +24,6 @@ setopt nullglob
 setopt globdots
 
 # Directory cont
-aining .mandart and .png files and RECURSE INTO SUBDIRECTORIES
 SOURCE_DIR="to-be-sorted"
 
 # Directory in which to create new subfolders & move files into these new subfolders
