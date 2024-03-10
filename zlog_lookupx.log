@@ -1,42 +1,58 @@
-2024-03-07 08:16:59: Running main() function
-2024-03-07 08:16:59: Testing value: -2.26
-2024-03-07 08:16:59: Value -2.26 maps to bucket Error: Unable to determine the primary bucket for xCenter -2.26.Error: Offset calculation error
-2024-03-07 08:16:59: Testing value: -2.25
-2024-03-07 08:16:59: Value -2.25 maps to bucket AError: Offset calculation error
-2024-03-07 08:16:59: Testing value: -2.24999
-2024-03-07 08:16:59: Value -2.24999 maps to bucket AError: Offset calculation error
-2024-03-07 08:16:59: Testing value: -1.0
-2024-03-07 08:16:59: Value -1.0 maps to bucket FError: Offset calculation error
-2024-03-07 08:16:59: Testing value: 0.0
-2024-03-07 08:16:59: Value 0.0 maps to bucket JError: Offset calculation error
-2024-03-07 08:16:59: Testing value: 0.749
-2024-03-07 08:16:59: Value 0.749 maps to bucket LError: Offset calculation error
-2024-03-07 08:16:59: Testing value: 0.75
-2024-03-07 08:16:59: Value 0.75 maps to bucket Error: Unable to determine the primary bucket for xCenter 0.75.Error: Offset calculation error
-2024-03-07 08:16:59: Testing value: -2.25
-2024-03-07 08:16:59: Value -2.25 maps to bucket AError: Offset calculation error
-2024-03-07 08:16:59: Testing value: -2.00
-2024-03-07 08:16:59: Value -2.00 maps to bucket BError: Offset calculation error
-2024-03-07 08:16:59: Testing value: -1.75
-2024-03-07 08:17:00: Value -1.75 maps to bucket CError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -1.50
-2024-03-07 08:17:00: Value -1.50 maps to bucket DError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -1.25
-2024-03-07 08:17:00: Value -1.25 maps to bucket EError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -1.00
-2024-03-07 08:17:00: Value -1.00 maps to bucket FError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -0.75
-2024-03-07 08:17:00: Value -0.75 maps to bucket GError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -0.50
-2024-03-07 08:17:00: Value -0.50 maps to bucket HError: Offset calculation error
-2024-03-07 08:17:00: Testing value: -0.25
-2024-03-07 08:17:00: Value -0.25 maps to bucket IError: Offset calculation error
-2024-03-07 08:17:00: Testing value: 0.00
-2024-03-07 08:17:00: Value 0.00 maps to bucket JError: Offset calculation error
-2024-03-07 08:17:00: Testing value: 0.25
-2024-03-07 08:17:00: Value 0.25 maps to bucket KError: Offset calculation error
-2024-03-07 08:17:00: Testing value: 0.50
-2024-03-07 08:17:00: Value 0.50 maps to bucket LError: Offset calculation error
-2024-03-07 08:17:00: Testing value: 0.75
-2024-03-07 08:17:00: Value 0.75 maps to bucket Error: Unable to determine the primary bucket for xCenter 0.75.Error: Offset calculation error
-2024-03-07 08:17:00: Completed main() function
+2024-03-10 12:13:21: Running main() function
+2024-03-10 12:13:21: Testing value: -2.26
+2024-03-10 12:13:22: Value -2.26 maps to bucket Error: Unable to determine the primary bucket for xCenter -2.26.Error: Offset calculation error
+2024-03-10 12:13:22: Testing value: -2.25
+2024-03-10 12:13:22: Value -2.25 maps to bucket Aa
+2024-03-10 12:13:22: Testing value: -2.24999
+2024-03-10 12:13:22: Value -2.24999 maps to bucket Aa
+2024-03-10 12:13:22: Testing value: -1.0
+2024-03-10 12:13:22: Value -1.0 maps to bucket Fa
+2024-03-10 12:13:22: Testing value: 0.0
+2024-03-10 12:13:22: Value 0.0 maps to bucket Ja
+2024-03-10 12:13:22: Testing value: 0.749
+2024-03-10 12:13:22: Value 0.749 maps to bucket Ld
+2024-03-10 12:13:22: Testing value: 0.75
+2024-03-10 12:13:22: Value 0.75 maps to bucket Error: Unable to determine the primary bucket for xCenter 0.75.Error: Offset calculation error
+2024-03-10 12:13:22: Testing value: -2.25
+2024-03-10 12:13:22: Value -2.25 maps to bucket Aa
+2024-03-10 12:13:22: Testing value: -2.00
+2024-03-10 12:13:22: Value -2.00 maps to bucket Ba
+2024-03-10 12:13:22: Testing value: -1.75
+2024-03-10 12:13:22: Value -1.75 maps to bucket Ca
+2024-03-10 12:13:22: Testing value: -1.50
+2024-03-10 12:13:22: Value -1.50 maps to bucket Da
+2024-03-10 12:13:22: Testing value: -1.25
+2024-03-10 12:13:22: Value -1.25 maps to bucket Ea
+2024-03-10 12:13:22: Testing value: -1.00
+2024-03-10 12:13:23: Value -1.00 maps to bucket Fa
+2024-03-10 12:13:23: Testing value: -0.75
+2024-03-10 12:13:23: Value -0.75 maps to bucket Ga
+2024-03-10 12:13:23: Testing value: -0.50
+2024-03-10 12:13:23: Value -0.50 maps to bucket Ha
+2024-03-10 12:13:23: Testing value: -0.25
+2024-03-10 12:13:23: Value -0.25 maps to bucket Ia
+2024-03-10 12:13:23: Testing value: 0.00
+2024-03-10 12:13:23: Value 0.00 maps to bucket Ja
+2024-03-10 12:13:23: Testing value: 0.25
+2024-03-10 12:13:23: Value 0.25 maps to bucket Ka
+2024-03-10 12:13:23: Testing value: 0.50
+2024-03-10 12:13:23: Value 0.50 maps to bucket La
+2024-03-10 12:13:23: Testing value: 0.75
+2024-03-10 12:13:23: Value 0.75 maps to bucket Error: Unable to determine the primary bucket for xCenter 0.75.Error: Offset calculation error
+2024-03-10 12:13:23: Testing value: -2.25
+2024-03-10 12:13:23: Value -2.25 maps to bucket Aa
+2024-03-10 12:13:23: Testing value: -2.0
+2024-03-10 12:13:24: Value -2.0 maps to bucket Ba
+2024-03-10 12:13:24: Testing value: 0.0
+2024-03-10 12:13:24: Value 0.0 maps to bucket Ja
+2024-03-10 12:13:24: Testing value: 0.05
+2024-03-10 12:13:24: Value 0.05 maps to bucket Ja
+2024-03-10 12:13:24: Testing value: 0.10
+2024-03-10 12:13:24: Value 0.10 maps to bucket Jb
+2024-03-10 12:13:24: Testing value: 0.15
+2024-03-10 12:13:24: Value 0.15 maps to bucket Jc
+2024-03-10 12:13:24: Testing value: 0.20
+2024-03-10 12:13:24: Value 0.20 maps to bucket Jd
+2024-03-10 12:13:24: Testing value: 0.249999
+2024-03-10 12:13:24: Value 0.249999 maps to bucket Jd
+2024-03-10 12:13:24: Completed main() function
