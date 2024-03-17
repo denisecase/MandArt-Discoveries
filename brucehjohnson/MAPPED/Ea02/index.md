@@ -18,3 +18,9 @@ These are taken from the brucehjohnson/MAPPED/Ea02 region.
 <a href="Frame47.mandart" download="Frame47.mandart">Click here to download</a><br>
 !["Frame47"](Frame47.png)
 
+
+## Frame47_1
+
+<a href="Frame47_1.mandart" download="Frame47_1.mandart">Click here to download</a><br>
+!["Frame47_1"](Frame47_1.png)
+

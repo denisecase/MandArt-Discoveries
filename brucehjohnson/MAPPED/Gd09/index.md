@@ -1,4 +1,4 @@
-# brucehjohnson/MAPPED/Ga09
+# brucehjohnson/MAPPED/Gd09
 
 Contributed by:
 
@@ -10,11 +10,17 @@ Discoveries folder:
 
 -----
 
-These are taken from the brucehjohnson/MAPPED/Ga09 region. 
+These are taken from the brucehjohnson/MAPPED/Gd09 region. 
 
 
 ## Frame55
 
 <a href="Frame55.mandart" download="Frame55.mandart">Click here to download</a><br>
 !["Frame55"](Frame55.png)
+
+
+## Frame55_1
+
+<a href="Frame55_1.mandart" download="Frame55_1.mandart">Click here to download</a><br>
+!["Frame55_1"](Frame55_1.png)
 
