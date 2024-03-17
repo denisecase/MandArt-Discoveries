@@ -19,12 +19,6 @@ These are taken from the brucehjohnson/MAPPED/Hc11 region.
 !["Frame53"](Frame53.png)
 
 
-## Frame53_1
-
-<a href="Frame53_1.mandart" download="Frame53_1.mandart">Click here to download</a><br>
-!["Frame53_1"](Frame53_1.png)
-
-
 ## Round1
 
 <a href="Round1.mandart" download="Round1.mandart">Click here to download</a><br>

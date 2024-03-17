@@ -43,22 +43,10 @@ Not available for download
 !["Frame16"](Frame16.png)
 
 
-## Frame16_1
-
-<a href="Frame16_1.mandart" download="Frame16_1.mandart">Click here to download</a><br>
-!["Frame16_1"](Frame16_1.png)
-
-
 ## Frame17
 
 <a href="Frame17.mandart" download="Frame17.mandart">Click here to download</a><br>
 !["Frame17"](Frame17.png)
-
-
-## Frame17_1
-
-<a href="Frame17_1.mandart" download="Frame17_1.mandart">Click here to download</a><br>
-!["Frame17_1"](Frame17_1.png)
 
 
 ## Frame18
