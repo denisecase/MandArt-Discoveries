@@ -10,77 +10,96 @@ Click here to see some interesting discoveries:
 
 ## Featured Discoveries
 
-Explore the collections of MandArt discovered by contributors. Click on the links below to view more from each region:
+Explore the collections of MandArt discovered by contributors.
+Click on the links below to view more from each region:
 
-### [Click here for Region Da01 Discoveries](/brucehjohnson/MAPPED/Da01/index.md)
+### [Click here for Region Db01 Discoveries](/brucehjohnson/MAPPED/Db01/index.md)
 
-![Da01 First Frame](brucehjohnson/MAPPED/Da01/Frame54.png)
+![Db01 Example](brucehjohnson/MAPPED/Db01/Frame19.png)
+
+---
+
+### [Click here for Region Dd01 Discoveries](/brucehjohnson/MAPPED/Dd01/index.md)
+
+![Dd01 Example](brucehjohnson/MAPPED/Dd01/Frame54.png)
 
 ---
 
 ### [Click here for Region Ea01 Discoveries](/brucehjohnson/MAPPED/Ea01/index.md)
 
-![Ea01 First Frame](brucehjohnson/MAPPED/Ea01/Frame33.png)
+![Ea01 Example](brucehjohnson/MAPPED/Ea01/Frame33.png)
 
 ---
 
 ### [Click here for Region Ea02 Discoveries](/brucehjohnson/MAPPED/Ea02/index.md)
 
-![Ea02 First Frame](brucehjohnson/MAPPED/Ea02/Frame47.png)
+![Ea02 Example](brucehjohnson/MAPPED/Ea02/Frame47.png)
 
 ---
 
-### [Click here for Region Fa03 Discoveries](/brucehjohnson/MAPPED/Fa03/index.md)
+### [Click here for Region Fd03 Discoveries](/brucehjohnson/MAPPED/Fd03/index.md)
 
-![Fa03 First Frame](brucehjohnson/MAPPED/Fa03/Frame05.png)
+![Fd03 Example](brucehjohnson/MAPPED/Fd03/Frame05.png)
 
 ---
 
 ### [Click here for Region Ga02 Discoveries](/brucehjohnson/MAPPED/Ga02/index.md)
 
-![Ga02 First Frame](brucehjohnson/MAPPED/Ga02/Frame10.png)
+![Ga02 Example](brucehjohnson/MAPPED/Ga02/Frame10.png)
 
 ---
 
 ### [Click here for Region Ga03 Discoveries](/brucehjohnson/MAPPED/Ga03/index.md)
 
-![Ga03 First Frame](brucehjohnson/MAPPED/Ga03/Frame40.png)
+![Ga03 Example](brucehjohnson/MAPPED/Ga03/Frame40.png)
 
 ---
 
-### [Click here for Region Ga09 Discoveries](/brucehjohnson/MAPPED/Ga09/index.md)
+### [Click here for Region Gd09 Discoveries](/brucehjohnson/MAPPED/Gd09/index.md)
 
-![Ga09 First Frame](brucehjohnson/MAPPED/Ga09/Frame55.png)
-
----
-
-### [Click here for Region Ha10 Discoveries](/brucehjohnson/MAPPED/Ha10/index.md)
-
-![Ha10 First Frame](brucehjohnson/MAPPED/Ha10/Frame27.png)
+![Gd09 Example](brucehjohnson/MAPPED/Gd09/Frame55.png)
 
 ---
 
-### [Click here for Region Ha11 Discoveries](/brucehjohnson/MAPPED/Ha11/index.md)
+### [Click here for Region Hb10 Discoveries](/brucehjohnson/MAPPED/Hb10/index.md)
 
-![Ha11 First Frame](brucehjohnson/MAPPED/Ha11/Frame53.png)
+![Hb10 Example](brucehjohnson/MAPPED/Hb10/Frame27.png)
+
+---
+
+### [Click here for Region Hc11 Discoveries](/brucehjohnson/MAPPED/Hc11/index.md)
+
+![Hc11 Example](brucehjohnson/MAPPED/Hc11/Frame53.png)
 
 ---
 
 ### [Click here for Region Ia11 Discoveries](/brucehjohnson/MAPPED/Ia11/index.md)
 
-![Ia11 First Frame](brucehjohnson/MAPPED/Ia11/Frame25.png)
+![Ia11 Example](brucehjohnson/MAPPED/Ia11/Frame18.png)
 
 ---
 
-### [Click here for Region Ka02 Discoveries](/brucehjohnson/MAPPED/Ka02/index.md)
+### [Click here for Region Id11 Discoveries](/brucehjohnson/MAPPED/Id11/index.md)
 
-![Ka02 First Frame](brucehjohnson/MAPPED/Ka02/Frame29.mandart)
+![Id11 Example](brucehjohnson/MAPPED/Id11/Frame22.png)
 
 ---
 
-### [Click here for Region Ka06 Discoveries](/brucehjohnson/MAPPED/Ka06/index.md)
+### [Click here for Region Kb02 Discoveries](/brucehjohnson/MAPPED/Kb02/index.md)
 
-![Ka06 First Frame](brucehjohnson/MAPPED/Ka06/Frame51.png)
+![Kb02 Example](brucehjohnson/MAPPED/Kb02/Frame45.mandart)
+
+---
+
+### [Click here for Region Kc02 Discoveries](/brucehjohnson/MAPPED/Kc02/index.md)
+
+![Kc02 Example](brucehjohnson/MAPPED/Kc02/Frame50.mandart)
+
+---
+
+### [Click here for Region Kc06 Discoveries](/brucehjohnson/MAPPED/Kc06/index.md)
+
+![Kc06 Example](brucehjohnson/MAPPED/Kc06/Frame52.png)
 
 ---
 
