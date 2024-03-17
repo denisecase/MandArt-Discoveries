@@ -60,3 +60,15 @@ These are taken from the brucehjohnson/MAPPED/Ga03 region.
 <a href="Frame43_1.mandart" download="Frame43_1.mandart">Click here to download</a><br>
 !["Frame43_1"](Frame43_1.png)
 
+
+## Seahorse
+
+<a href="Seahorse.mandart" download="Seahorse.mandart">Click here to download</a><br>
+!["Seahorse"](Seahorse.png)
+
+
+## Seahorses
+
+Not available for download
+!["Seahorses"](Seahorses.png)
+
