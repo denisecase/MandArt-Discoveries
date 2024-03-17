@@ -10,7 +10,18 @@ Click here to see some interesting discoveries:
 
 ## Featured Discoveries
 
-Explore the collections of MandArt discovered by contributors.
+We can explore the collections of MandArt by location.
+Each region has its own unique discoveries.
+
+This map shows the locations of the discoveries in this repository.
+Vertical space is divided into 12 primary regions, lettered A through L.
+Vertical space is further divided into 4 subregions, lettered a through d.
+Horizontal space is divided into 20 primary regions, numbered 01 through 12.
+The bottom space reflects the top space;
+discoveries in the lower half of the map are reflections of discoveries in the upper half.
+
+![MandArtMap](MandArtMap.png)
+
 Click on the links below to view more from each region:
 
 ### [Click here for Region Db01 Discoveries](/brucehjohnson/MAPPED/Db01/index.md)
