@@ -98,13 +98,13 @@ Click on the links below to view more from each region:
 
 ### [Click here for Region Kb02 Discoveries](/brucehjohnson/MAPPED/Kb02/index.md)
 
-![Kb02 Example](brucehjohnson/MAPPED/Kb02/Frame45.mandart)
+![Kb02 Example](brucehjohnson/MAPPED/Kb02/Frame45.png)
 
 ---
 
 ### [Click here for Region Kc02 Discoveries](/brucehjohnson/MAPPED/Kc02/index.md)
 
-![Kc02 Example](brucehjohnson/MAPPED/Kc02/Frame50.mandart)
+![Kc02 Example](brucehjohnson/MAPPED/Kc02/Frame50.png)
 
 ---
 
